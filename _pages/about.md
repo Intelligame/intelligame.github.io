@@ -476,7 +476,7 @@ redirect_from:
 <hr style="margin: 30px 0;">
 
 
-- **[张瑞昌](https://scholar.google.com/citations?user=X3Pwc_sAAAAJ&hl=zh-CN)**  
+- **[张瑞昌 Ruichang Zhang](https://scholar.google.com/citations?user=X3Pwc_sAAAAJ&hl=zh-CN)**  
   学校：曼彻斯特大学
 
 ## 🏭 Industry / 工业界
