@@ -144,7 +144,6 @@ We are actively exploring collaborations across AI, energy systems, and policy d
 
 <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
-  <!-- Weilong Chen -->
   <div style="display: flex; align-items: center; width: 300px;">
     <img src="../images/members/cwl.jpg" alt="Weilong Chen" 
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
@@ -160,7 +159,31 @@ We are actively exploring collaborations across AI, energy systems, and policy d
     <img src="../images/members/phd2.jpg" alt="PhD Student 2" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong>Name 2</strong><br>
+      <strong>Peng Wang</strong><br>
+      Ph.D. Student
+    </div>
+  </div>
+
+</div>
+
+<div style="display: flex; gap: 40px; margin-bottom: 30px;">
+
+  <div style="display: flex; align-items: center; width: 300px;">
+    <img src="../images/members/cwl.jpg" alt="Weilong Chen" 
+         style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
+    <div>
+      <strong><a href="https://scholar.google.com/citations?user=ukaTvisAAAAJ">Zhuo Lan</a></strong><br>
+      Ph.D. Student<br>
+      <a href="https://chenweilong915.github.io/">Home Page</a>
+    </div>
+  </div>
+
+  <!-- Placeholder for PhD Student 2 -->
+  <div style="display: flex; align-items: center; width: 300px;">
+    <img src="../images/members/phd2.jpg" alt="PhD Student 2" 
+         style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
+    <div>
+      <strong>Kai Xie</strong><br>
       Ph.D. Student
     </div>
   </div>
@@ -172,10 +195,71 @@ We are actively exploring collaborations across AI, energy systems, and policy d
 
 ### 🎓 Master's Students
 
-![Master Students](images/members/masters.jpg){ width=150px }
-We currently have over 20 master's students working on AI, smart grids, and intelligent energy systems.
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+
+  <div style="width: 80px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>Xinru Liu</strong><br>
+      Master Student
+    </div>
+  </div>
+
+  <div style="width: 80px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>Xinru Liu</strong><br>
+      Master Student
+    </div>
+  </div>
+
+  <div style="width: 80px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>Xinru Liu</strong><br>
+      Master Student
+    </div>
+  </div>
+
+</div>
+
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+
+  <div style="width: 80px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>Xinru Liu</strong><br>
+      Master Student
+    </div>
+  </div>
+
+  <div style="width: 80px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>Xinru Liu</strong><br>
+      Master Student
+    </div>
+  </div>
+
+  <div style="width: 80px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>Xinru Liu</strong><br>
+      Master Student
+    </div>
+  </div>
+
+</div>
 
 
 
-# 💻 Internships
+# 💻 Alumni
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
