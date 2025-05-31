@@ -28,7 +28,7 @@ redirect_from:
 <div style="margin-bottom: 2em;">
   <p>实验室的主要研究方向包括：面向电力系统的机器学习、建筑能源管理、智能电网预测分析以及多模态人工智能应用。我们拥有多样化的研究团队，现有 2 名研究员（<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">杨涵博士</a></strong> 和 <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">刘旻昊博士</a></strong>）、6 名博士研究生以及 20 多名硕士研究生，广泛开展跨学科的学术与产业合作。</p>
 
-  <p><span style="color:gray;">Our core research areas include machine learning for power systems, intelligent energy management, predictive analytics for smart grids, and multi-modal AI applications. With a diverse team of 2 research fellows (<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">Dr. Han Yang</a></strong> and <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">Dr. Minghao Liu</a></strong>), 6 Ph.D. students, and over 20 master’s students, we actively engage in interdisciplinary collaborations across academia and industry.</span></p>
+  <p><span style="color:gray;">Our core research areas include machine learning for power systems, intelligent energy management, predictive analytics for smart grids, and multi-modal AI applications. With a diverse team of 2 research fellows (<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">Dr. Han Yang</a></strong> and <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">Dr. Minhao Liu</a></strong>), 6 Ph.D. students, and over 20 master’s students, we actively engage in interdisciplinary collaborations across academia and industry.</span></p>
 </div>
 
 <!-- 成果贡献 -->
@@ -123,12 +123,16 @@ redirect_from:
 
 - *2024.10*: &nbsp;Wenhao Hu, Weilong Chen, Weimin Yuan, Yan Wang, Shimin Cai, Yanru Zhang, **"[Dual-Stream Pre-Training Transformer to Enhance Multimodal Learning for Social Media Prediction](https://dl.acm.org/doi/abs/10.1145/3664647.3688998)"**, *ACM MM 2024 - Proceedings of the 32nd ACM International Conference on Multimedia*, Melbourne VIC, Australia, 2024, pp. 11450–11456. (🏆**CCF A**)
 
+- *2024.10*: &nbsp;Yan Zhuang, Yanru Zhang, Zheng Hu, Xiaoyue Zhang, Jiawen Deng, Fuji Ren, **"[GLoMo: Global-Local Modal Fusion for Multimodal Sentiment Analysis](https://dl.acm.org/doi/abs/10.1145/3664647.3681527)"**, *ACM MM 2024 - Proceedings of the 32nd ACM International Conference on Multimedia*, Melbourne VIC, Australia, 2024, pp. 11450–11456. (🏆**CCF A**)
+
 - *2024.10*: &nbsp;Weilong Chen, Wenhao Hu, Xiaolu Chen, Weimin Yuan, Yan Wang, Yanru Zhang, Zhu Han, **"[Tri-Modal Transformers With Mixture-of-Modality-Experts for Social Media Prediction](https://ieeexplore.ieee.org/abstract/document/10705363)"**, *in IEEE Transactions on Circuits and Systems for Video Technology*, vol. 35, no. 2, pp. 1897-1909, Feb. 2025. (**🏆Top Journal, CAS Tier 1**)
 
 
-- *2024.07*: &nbsp;Weilong Chen, Shengrong Bu, Xinran Zhang, Yanqing Tao, Yanru Zhang, Zhu Han, **"[Deep Reinforcement Learning-Assisted Federated Learning for Robust Short-Term Load Forecasting in Electricity Wholesale Markets](https://ieeexplore.ieee.org/abstract/document/10598399/)"**, *in IEEE Transactions on Network Science and Engineering*, vol. 11, no. 5, pp. 5073-5086, Sept.-Oct. 2024. (**CAS Tier 2**)
+- *2024.07*: &nbsp;Chenghao Huang; Shengrong Bu; Weilong Chen; Hao Wang; Yanru Zhang, **"[Deep Reinforcement Learning-Assisted Federated Learning for Robust Short-Term Load Forecasting in Electricity Wholesale Markets](https://ieeexplore.ieee.org/abstract/document/10598399/)"**, *in IEEE Transactions on Network Science and Engineering*, vol. 11, no. 5, pp. 5073-5086, Sept.-Oct. 2024. (**CAS Tier 2**)
 
 - *2024.06*: &nbsp;Weilong Chen, Shengrong Bu, Xinran Zhang, Yanqing Tao, Yanru Zhang, Zhu Han, **"[Semi-Supervised Federated Analytics for Heterogeneous Household Characteristics Identification](https://ieeexplore.ieee.org/abstract/document/10559406)"**, *in IEEE Transactions on Smart Grid*, vol. 15, no. 6, pp. 5799-5812, Nov. 2024. (**🏆Top Journal, CAS Tier 1**)
+
+- *2024.06*: &nbsp;Han Yang, Weimin Yuan, Weijun Zhu, Zhenye Sun, Yanru Zhang, Yingjie Zhou, **"[Wind turbine airfoil noise prediction using dedicated airfoil database and deep learning technology](https://www.sciencedirect.com/science/article/abs/pii/S0306261924005488)"**, *in Applied Energy,*, vol.364, Art no. 123165, Jun. 2024. (**🏆Top Journal, CAS Tier 1**)
 
 
 - *2024.05*: &nbsp;Weilong Chen, Shaoliang Zhang, Ruobing Xie, Feng Xia, Leyu Lin, Xinran Zhang, Yan Wang, Yanru Zhang, **"[CIPPO: Contrastive Imitation Proximal Policy Optimization for Recommendation Based on Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10534824)"**, *in IEEE Transactions on Knowledge and Data Engineering*, vol. 36, no. 11, pp. 5753-5767, Nov. 2024. (**🏆Top Journal, CAS Tier 1**)
@@ -188,9 +192,9 @@ redirect_from:
     </div>
   </div>
 
-  <!-- Minghao Liu -->
+  <!-- Minhao Liu -->
   <div style="display: flex; align-items: center; width: 300px;">
-    <img src="../images/members/liu.jpg" alt="Minghao Liu" 
+    <img src="../images/members/minhaoliu.jpg" alt="Minhao Liu" 
          style="width: 100px; height: 100px; object-fit: contain;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
       <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">刘旻昊<br>Minhao Liu</a></strong><br>
@@ -374,7 +378,7 @@ redirect_from:
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+    <img src="../images/members/weijiarong.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
     <strong>荣伟佳<br>Weijia Rong</strong><br>
