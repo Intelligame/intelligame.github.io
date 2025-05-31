@@ -399,6 +399,14 @@ redirect_from:
     </div>
   </div>
 
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>李斌<br>Bin Li</strong><br>
+    </div>
+  </div>
+
 
 </div>
 
