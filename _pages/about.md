@@ -38,7 +38,7 @@ redirect_from:
   <p><span style="color:gray;">Our members have published in top international AI and energy systems conferences and journals. We strive to bridge theory and real-world applications, contributing to the national goals of carbon neutrality and intelligent urban infrastructure.</span></p>
 </div>
 
-<h2>⭐️⭐️⭐️实验室长期招收<span style="color:red; font-weight:bold">人工智能、电气工程、计算机、智能电网</span>等相关专业背景的硕士和博士研究生，参与真实科研项目并发表高水平论文。</h2>
+<h2>⭐️⭐️⭐️实验室长期招收<span style="color:red; font-weight:bold">人工智能、电气工程、计算机、智能电网</span>等相关专业背景的本科、硕士和博士研究生，参与真实科研项目并发表高水平论文。</h2>
 <h2>⭐️⭐️⭐️ We are actively recruiting graduate students with backgrounds in <span style="color:red; font-weight:bold">AI, Electrical Engineering, Computer Science or Smart Grid</span>. Students will engage in real-world research projects and publish in top-tier venues.</h2>
 
 
@@ -59,14 +59,14 @@ redirect_from:
   <li>
     <p>
       <strong>2025.05</strong>: 🎉🎉 我们的论文 <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>《Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity》</strong></a> 被 <em>IEEE Transactions on Instrumentation and Measurement</em> 接收（中科院二区）！<br>
-      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>"Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity"</strong></a> has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em> (**CAS Tier 2**)!</span>
+      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity"</strong> has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em> (**CAS Tier 2**)!</span>
     </p>
   </li>
 
   <li>
     <p>
       <strong>2022.04</strong>: 我们发布了一个开源项目 <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>，致力于大语言模型在能源领域的应用。<br>
-      <span style="color:gray;">We have released an open-source repository named <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>, focusing on applications of LLMs in the energy domain.</span>
+      <span style="color:gray;">We have released an open-source repository named <strong>Awesome Energy LLM papers</strong>, focusing on applications of LLMs in the energy domain.</span>
     </p>
   </li>
 </ul>
@@ -212,9 +212,8 @@ redirect_from:
     <img src="../images/members/cwl.jpg" alt="Weilong Chen" 
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong><a href="https://scholar.google.com/citations?user=ukaTvisAAAAJ">陈维龙<br>Weilong Chen</a></strong><br>
+      <strong><a href="https://chenweilong915.github.io/">陈维龙<br>Weilong Chen</a></strong><br>
       博士生<br>Ph.D. Student<br>
-      <a href="https://chenweilong915.github.io/">主页<br>Home Page</a>
     </div>
   </div>
 
@@ -255,10 +254,10 @@ redirect_from:
 
 
 <div style="display: flex; align-items: center; width: 300px;">
-    <img src="../images/members/kaixie.jpeg" alt="kaixie" 
+    <img src="../images/members/chuxianqiu.jpg" alt="kaixie" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong>邱楚贤<br>Chuxian Qiu</strong><br>
+      <strong>丘楚贤<br>Chuxian Qiu</strong><br>
       博士生<br>Ph.D. Student<br>
     </div>
   </div>
