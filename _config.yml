@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Intelligame Lab"
-description :            :"The Intelligame Lab at UESTC, led by Dr. Yanru Zhang, focuses on research at the intersection of Artificial Intelligence and Smart Grids. Our team includes 2 research fellows, 4 Ph.D. students, and over 20 master's students. We are committed to developing data-driven, intelligent solutions for energy systems."
+description :            : "The Intelligame Lab at UESTC, led by Dr. Yanru Zhang, focuses on research at the intersection of Artificial Intelligence and Smart Grids. "
 repository               : "intelligame/intelligamelab.github.io"
 google_scholar_stats_use_cdn : true
 
