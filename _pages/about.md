@@ -239,11 +239,6 @@ redirect_from:
       博士生<br>Ph.D. Student<br>
     </div>
   </div>
-
-</div>
-
-<div style="display: flex; gap: 40px; margin-bottom: 30px;">
-
   
 
   <!-- Placeholder for PhD Student 2 -->
@@ -326,11 +321,6 @@ redirect_from:
     </div>
   </div>
 
-</div>
-
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
-
   <div style="width: 100px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
@@ -373,10 +363,6 @@ redirect_from:
     </div>
   </div>
 
-</div>
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
-
   <div style="width: 100px; text-align: center;">
     <img src="../images/members/weijiarong.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
@@ -416,11 +402,6 @@ redirect_from:
       <strong>覃韵怡<br>Yunyi Qin</strong><br>
     </div>
   </div>
-
-
-</div>
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
   <div style="width: 100px; text-align: center;">
     <img src="../images/members/linzhelai.jpg" alt="Xinru Liu" 
