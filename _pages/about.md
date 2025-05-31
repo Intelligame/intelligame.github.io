@@ -235,7 +235,7 @@ redirect_from:
     <img src="../images/members/zhuolan.jpg" alt="zhuolan" 
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong><a href="https://scholar.google.com/citations?user=ukaTvisAAAAJ">兰卓<br>Zhuo Lan</a></strong><br>
+      <strong>兰卓<br>Zhuo Lan</a></strong><br>
       博士生<br>Ph.D. Student<br>
     </div>
   </div>
@@ -424,7 +424,7 @@ redirect_from:
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
     <strong><a href="https://scholar.google.com.au/citations?user=eQIg4c8AAAAJ&hl=en">黄承浩<br>Chenghao Huang</a></strong><br>
-      硕士毕业生<br>Graduated Master Student<br>
+      2022级硕士毕业生<br>Graduated Master Student<br>
       莫纳什大学在读博士<br>Ph.D. student in Monash University
     </div>
   </div>
@@ -434,7 +434,7 @@ redirect_from:
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
     <strong><a href="https://scholar.google.com/citations?user=DtOl0DkAAAAJ&hl=zh-CN">庄岩<br>Yan Zhuang</a></strong><br>
-      硕士毕业生<br>Graduated Master Student<br>
+      2022级硕士毕业生<br>Graduated Master Student<br>
       电子科技大学在读博士<br>Ph.D. student in UESTC
     </div>
   </div>
@@ -444,7 +444,7 @@ redirect_from:
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong><a href="https://github.com/HWH-2000">胡文浩<br>Wenhao Hu</a></strong><br>
-      硕士毕业生<br>Graduated Master Student<br>
+      2025级硕士毕业生<br>Graduated Master Student<br>
       卓克索大学在读博士<br>Ph.D. student in Drexel University
     </div>
   </div>
