@@ -417,6 +417,8 @@ redirect_from:
 
 <span class='anchor' id='-alumni'></span>
 # 💻 Alumni / 毕业生
+
+### 🎓 Academic / 学术界
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
   <div style="width: 250px; text-align: center;">
@@ -451,3 +453,35 @@ redirect_from:
   </div>
 
 </div>
+
+<hr style="margin: 30px 0;">
+
+
+- **[张瑞昌](https://scholar.google.com/citations?user=X3Pwc_sAAAAJ&hl=zh-CN)**  
+  学校：曼彻斯特大学
+
+### 🏭 Industry / 工业界
+
+#### 🎓 2024级毕业生
+
+- **郭康帅**  
+  就业单位：美团（Meituan）
+
+#### 🎓 2023级毕业生
+
+- **何攀**  
+  就业单位：美团（Meituan）
+- **成典**  
+  就业单位：TP-LINK
+
+#### 🎓 2022级毕业生
+
+- **洪峰**  
+  就业单位：华为（Huawei）
+
+  
+
+#### 🎓 2021级毕业生
+
+- **袁鑫**  
+  就业单位：成都飞机工业（集团）有限责任公司 （成飞）
