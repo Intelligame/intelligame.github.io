@@ -512,7 +512,7 @@ redirect_from:
   就业单位：腾讯（Tencent）
 
 - **张重坚**  
-  就业单位：中兴（Tencent）
+  就业单位：中兴（ZTE）
 
 - **常钰**  
   就业单位：百度（Baidu）
