@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-us'></span>
 
   The <strong>Intelligame Lab</strong> at the University of Electronic Science and Technology of China (UESTC) is dedicated to advancing research at the intersection of <strong>Artificial Intelligence</strong> and <strong>Smart Grids</strong>. Under the leadership of <strong>[Dr. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)</strong>, our lab explores data-driven methodologies for improving the efficiency, resilience, and intelligence of future energy systems.
 
