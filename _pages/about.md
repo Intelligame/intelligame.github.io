@@ -187,7 +187,7 @@ redirect_from:
     <img src="../images/members/yang.jpg" alt="Han Yang" 
          style="width: 100px; height: 100px; object-fit: cover; object-position: top;border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">杨涵<br>Han Yang</a></strong><br>
+      <strong><a href="https://scholar.google.com/citations?user=U0b_qQsAAAAJ&hl=zh-CN">杨涵<br>Han Yang</a></strong><br>
       副研究员，硕士生导师<br><em>Associate Research Fellow, Supervisor of Master's Students</em><br>
     </div>
   </div>
