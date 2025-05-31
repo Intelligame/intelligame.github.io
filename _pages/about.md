@@ -425,6 +425,17 @@ redirect_from:
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
   <div style="width: 300px; text-align: center;">
+    <img src="../images/alumni/daniel.jpeg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong><a href="https://scholar.google.com/citations?user=B1O7Ih4AAAAJ&hl=en">Daniel Mawunyo Doe</a></strong><br>
+      2021级硕士毕业生<br>Graduated Master Student<br>
+      休斯敦大学博士毕业<br>Ph.D. in University of Houston<br>
+      Assistant Professor in Prairie View A&M University<br>
+    </div>
+  </div>
+
+  <div style="width: 300px; text-align: center;">
     <img src="../images/alumni/yubai.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
