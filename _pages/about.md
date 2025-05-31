@@ -259,7 +259,7 @@ redirect_from:
     <img src="../images/members/kaixie.jpeg" alt="kaixie" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong>邱楚贤<br>Chuxian Qiu</a></strong><br>
+      <strong>邱楚贤<br>Chuxian Qiu</strong><br>
       博士生<br>Ph.D. Student<br>
     </div>
   </div>
