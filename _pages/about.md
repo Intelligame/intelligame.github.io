@@ -394,7 +394,7 @@ redirect_from:
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+    <img src="../images/members/qianzhou.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong>周钱<br>Qian Zhou</strong><br>
