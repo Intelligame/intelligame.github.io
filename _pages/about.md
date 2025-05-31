@@ -303,7 +303,7 @@ redirect_from:
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+    <img src="../images/members/wenxuanxu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong>胥汶渲<br>Wenxuan Xu</strong><br>
@@ -393,8 +393,6 @@ redirect_from:
     </div>
   </div>
 
-  
-
   <div style="width: 100px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
@@ -408,6 +406,27 @@ redirect_from:
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong>李斌<br>Bin Li</strong><br>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/yunyiqin.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>覃韵怡<br>Yunyi Qin</strong><br>
+    </div>
+  </div>
+
+
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/linzhelai.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>赖霖喆<br>Linzhe Lai</strong><br>
     </div>
   </div>
 
