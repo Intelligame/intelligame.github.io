@@ -315,7 +315,7 @@ redirect_from:
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+    <img src="../images/members/yuanqingcai.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong>蔡元卿<br>Yuanqin Cai</strong><br>
@@ -429,7 +429,7 @@ redirect_from:
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-    <strong><a href="https://scholar.google.com/citations?user=tijdicwAAAAJ&hl=zh-CN">庄岩<br>Yan Zhuang</a></strong><br>
+    <strong><a href="https://scholar.google.com/citations?user=DtOl0DkAAAAJ&hl=zh-CN">庄岩<br>Yan Zhuang</a></strong><br>
       硕士毕业生<br>Graduated Master Student<br>
       电子科技大学在读博士<br>Ph.D. student in UESTC
     </div>
