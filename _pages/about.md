@@ -156,10 +156,9 @@ redirect_from:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/members/Dr.zhang.jpg" alt="Dr. Yanru Zhang" style="width: 120px; height: 120px; object-fit: cover; object-position: top; border-radius: 50%; margin-right: 20px;">
   <div>
-    <strong><a href="https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en">Dr. Yanru Zhang</a></strong><br>
-    Principal Investigator, Intelligame Lab<br>
-    University of Electronic Science and Technology of China (UESTC)<br>
-    The Shenzhen Institute for Advanced Study, UESTC, Shenzhen
+    <strong><a href="https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en">张彦如<br>Yanru Zhang</a></strong><br>
+    教授，博士生导师<br><em>Professor and Ph.D. Supervisor</em><br>
+    国家级人才
   </div>
 </div>
 
@@ -174,8 +173,8 @@ redirect_from:
     <img src="../images/members/yang.jpg" alt="Han Yang" 
          style="width: 100px; height: 100px; object-fit: cover; object-position: top;border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">Han Yang</a></strong><br>
-      Research Fellow
+      <strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">杨涵<br>Han Yang</a></strong><br>
+      副研究员，硕士生导师<br><em>Associate Research Fellow, Supervisor of Master's Students</em><br>
     </div>
   </div>
 
@@ -184,8 +183,8 @@ redirect_from:
     <img src="../images/members/liu.jpg" alt="Minghao Liu" 
          style="width: 100px; height: 100px; object-fit: contain;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">Minhao Liu</a></strong><br>
-      Research Fellow
+      <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">刘闵昊<br>Minhao Liu</a></strong><br>
+      副研究员，硕士生导师<br><em>Associate Research Fellow, Supervisor of Master's Students</em><br>
     </div>
   </div>
 
@@ -203,9 +202,9 @@ redirect_from:
     <img src="../images/members/cwl.jpg" alt="Weilong Chen" 
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong><a href="https://scholar.google.com/citations?user=ukaTvisAAAAJ">Weilong Chen</a></strong><br>
-      Ph.D. Student<br>
-      <a href="https://chenweilong915.github.io/">Home Page</a>
+      <strong><a href="https://scholar.google.com/citations?user=ukaTvisAAAAJ">陈维龙<br>Weilong Chen</a></strong><br>
+      博士生<br>Ph.D. Student<br>
+      <a href="https://chenweilong915.github.io/">主页<br>Home Page</a>
     </div>
   </div>
 
@@ -214,8 +213,8 @@ redirect_from:
     <img src="../images/members/phd2.jpg" alt="Peng wang" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong>Peng Wang</strong><br>
-      Ph.D. Student
+      <strong>王鹏<br>Peng Wang</strong><br>
+      博士生<br>Ph.D. Student<br>
     </div>
   </div>
 
@@ -227,9 +226,8 @@ redirect_from:
     <img src="../images/members/zhulan.jpg" alt="zhuolan" 
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong><a href="https://scholar.google.com/citations?user=ukaTvisAAAAJ">Zhuo Lan</a></strong><br>
-      Ph.D. Student<br>
-      <a href="https://chenweilong915.github.io/">Home Page</a>
+      <strong><a href="https://scholar.google.com/citations?user=ukaTvisAAAAJ">兰卓<br>Zhuo Lan</a></strong><br>
+      博士生<br>Ph.D. Student<br>
     </div>
   </div>
 
@@ -238,10 +236,25 @@ redirect_from:
     <img src="../images/members/kaixie.jpeg" alt="kaixie" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong><a href="https://scholar.google.com.hk/citations?user=BsUa_KsAAAAJ&hl=zh-CN">Kai Xie</a></strong><br>
-      Ph.D. Student
+      <strong><a href="https://scholar.google.com.hk/citations?user=BsUa_KsAAAAJ&hl=zh-CN">谢凯<br>Kai Xie</a></strong><br>
+      博士生<br>Ph.D. Student<br>
     </div>
   </div>
+
+</div>
+
+
+<div style="display: flex; gap: 40px; margin-bottom: 30px;">
+
+  <div style="display: flex; align-items: center; width: 300px;">
+    <img src="../images/members/zhulan.jpg" alt="bingchen" 
+         style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
+    <div>
+      <strong>陈斌<br>Bin Chen</strong><br>
+      博士生<br>Ph.D. Student<br>
+    </div>
+  </div>
+
 
 </div>
 
@@ -323,9 +336,9 @@ redirect_from:
     <img src="../images/alumni/chenghaohuang.jpg" alt="Chenghao Huang" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-    <strong><a href="https://scholar.google.com.au/citations?user=eQIg4c8AAAAJ&hl=en">Chenghao Huang</a></strong><br>
-      Graduated Master Student<br>
-      Ph.D. student in Monash University
+    <strong><a href="https://scholar.google.com.au/citations?user=eQIg4c8AAAAJ&hl=en">黄承浩<br>Chenghao Huang</a></strong><br>
+      硕士毕业生<br>Graduated Master Student<br>
+      莫纳什大学在读博士<br>Ph.D. student in Monash University
     </div>
   </div>
 
@@ -333,9 +346,9 @@ redirect_from:
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Yan Zhuang</strong><br>
-      Graduated Master Student<br>
-      Ph.D. student in UESTC
+    <strong><a href="https://scholar.google.com/citations?user=tijdicwAAAAJ&hl=zh-CN">庄岩<br>Yan Zhuang</a></strong><br>
+      硕士毕业生<br>Graduated Master Student<br>
+      电子科技大学在读博士<br>Ph.D. student in UESTC
     </div>
   </div>
 
