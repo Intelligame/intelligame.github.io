@@ -235,7 +235,7 @@ redirect_from:
     <img src="../images/members/zhuolan.jpg" alt="zhuolan" 
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong>兰卓<br>Zhuo Lan</a></strong><br>
+      <strong>兰卓<br>Zhuo Lan</strong><br>
       博士生<br>Ph.D. Student<br>
     </div>
   </div>
@@ -470,10 +470,7 @@ redirect_from:
       莫纳什大学在读博士<br>Ph.D. student in Monash University
     </div>
   </div>
-
-</div>
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+  
   <div style="width: 300px; text-align: center;">
     <img src="../images/alumni/weiminyuan.jpg" alt="Weihao Hu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
@@ -525,6 +522,16 @@ redirect_from:
 
 - **陈昱汐**  
   就业单位：腾讯（Tencent）
+
+- **张重坚**  
+  就业单位：中兴（Tencent）
+
+- **常钰**  
+  就业单位：百度（Baidu）
+
+- **杨顺吉**  
+  就业单位：[信息已经被隐藏]
+
 
 #### 🎓 2023级毕业生
 
