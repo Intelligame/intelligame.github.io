@@ -44,7 +44,7 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 
-## 🔥 News / 最新动态
+# 🔥 News / 最新动态
 
 
 
@@ -74,7 +74,7 @@ redirect_from:
 
 
 <span class='anchor' id='-research'></span>
-## 🔍 Research / 研究方向
+# 🔍 Research / 研究方向
 
 <div style="margin-bottom: 1.5em;">
   <p><strong>我们当前的研究主要集中在以下几个方向：</strong></p>
@@ -157,7 +157,7 @@ redirect_from:
 
 
 <span class='anchor' id='-team-members'></span>
-## 👥 Team Members / 团队成员
+# 👥 Team Members / 团队成员
 
 
 
