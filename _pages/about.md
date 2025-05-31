@@ -52,14 +52,14 @@ redirect_from:
   <li>
     <p>
       <strong>2025.05</strong>: 🎉🎉 我们的论文 <strong>《SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation》</strong> 被 <em>IEEE Transactions on Smart Grid</em> 录用（🏆中科院一区期刊）！👉 <a href="https://github.com/Intelligame/SocialDiff">[dataset and code]</a><br>
-      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (**🏆Top Journal, CAS Tier 1**)! </span>
+      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (🏆Top Journal, CAS Tier 1)! </span>
     </p>
   </li>
 
   <li>
     <p>
       <strong>2025.05</strong>: 🎉🎉 我们的论文 <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>《Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity》</strong></a> 被 <em>IEEE Transactions on Instrumentation and Measurement</em> 接收（中科院二区）！<br>
-      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity"</strong> has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em> (**CAS Tier 2**)!</span>
+      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity"</strong> has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em> (CAS Tier 2)!</span>
     </p>
   </li>
 
