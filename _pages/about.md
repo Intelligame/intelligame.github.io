@@ -39,8 +39,35 @@ redirect_from:
 </div>
 
 
+<span class='anchor' id='-news'></span>
+<h2>🔥 News / 最新动态</h2>
+
+<ul>
+  <li>
+    <p>
+      <strong>2025.05</strong>: 🎉🎉 我们的论文 <strong>《SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation》</strong> 被 <em>IEEE Transactions on Smart Grid</em> 录用（🏆中科院一区期刊）！<br>
+      🎉🎉 Our paper <strong>"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (**🏆Top Journal, CAS Tier 1**)! 
+      👉 <a href="https://github.com/Intelligame/SocialDiff">[dataset and code]</a>
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <strong>2025.05</strong>: 🎉🎉 我们的论文 <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>《Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity》</strong></a> 被 <em>IEEE Transactions on Instrumentation and Measurement</em> 接收（中科院二区）！<br>
+      🎉🎉 Our paper <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>"Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity"</strong></a> has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em> (**CAS Tier 2**)!
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <strong>2022.04</strong>: 我们发布了一个开源项目 <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>，致力于大语言模型在能源领域的应用。<br>
+      We have released an open-source repository named <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>, focusing on applications of LLMs in the energy domain.
+    </p>
+  </li>
+</ul>
 
 
+<span class='anchor' id='-research'></span>
 <h2>🔍 Research / 研究方向</h2>
 
 <div style="margin-bottom: 1.5em;">
@@ -78,33 +105,9 @@ redirect_from:
 
 
 
-<h2>🔥 News / 最新动态</h2>
-
-<ul>
-  <li>
-    <p>
-      <strong>2025.05</strong>: 🎉🎉 我们的论文 <strong>《SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation》</strong> 被 <em>IEEE Transactions on Smart Grid</em> 录用（🏆中科院一区期刊）！<br>
-      🎉🎉 Our paper <strong>"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (**🏆Top Journal, CAS Tier 1**)! 
-      👉 <a href="https://github.com/Intelligame/SocialDiff">[dataset and code]</a>
-    </p>
-  </li>
-
-  <li>
-    <p>
-      <strong>2025.05</strong>: 🎉🎉 我们的论文 <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>《Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity》</strong></a> 被 <em>IEEE Transactions on Instrumentation and Measurement</em> 接收（中科院二区）！<br>
-      🎉🎉 Our paper <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>"Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity"</strong></a> has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em> (**CAS Tier 2**)!
-    </p>
-  </li>
-
-  <li>
-    <p>
-      <strong>2022.04</strong>: 我们发布了一个开源项目 <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>，致力于大语言模型在能源领域的应用。<br>
-      We have released an open-source repository named <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>, focusing on applications of LLMs in the energy domain.
-    </p>
-  </li>
-</ul>
 
 
+<span class='anchor' id='-publications'></span>
 # 📝 Publications / 部分论文
 
 - *2025.05*: &nbsp;Weilong Chen, Xinru Liu, Xinran Zhang, Jian Shi, Han Yang, Zhu Han, and Yanru Zhang, **"[SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation](https://github.com/Intelligame/SocialDiff)"**, *in IEEE Transactions on Smart Grid*, May. 2025. (**🏆Top Journal, CAS Tier 1**)
@@ -133,7 +136,9 @@ redirect_from:
 - ....
 - other papers can be found in [google scholar](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
 
-# 🎖 Honors and Awards
+
+<span class='anchor' id='-honors-and-awards'></span>
+# 🎖 Honors and Awards / 比赛获奖
 
 - *2024.09*: 🏆 Best Performance Prize, ACM MM SMP 2024 International Challenge  
 - *2023.09*: 🏆 Best Performance Prize, ACM MM SMP 2023 International Challenge  
@@ -145,8 +150,8 @@ redirect_from:
 
 
 
-
-## 👥 Team Members
+<span class='anchor' id='-team-members'></span>
+## 👥 Team Members / 团队成员
 
 
 
@@ -328,7 +333,7 @@ redirect_from:
 </div>
 
 
-
+<span class='anchor' id='-alumni'></span>
 # 💻 Alumni / 毕业生
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
