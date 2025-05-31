@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Intelligame Lab"
+description :            :"The Intelligame Lab at UESTC, led by Dr. Yanru Zhang, focuses on research at the intersection of Artificial Intelligence and Smart Grids. Our team includes 2 research fellows, 4 Ph.D. students, and over 20 master's students. We are committed to developing data-driven, intelligent solutions for energy systems."
+repository               : "Intelligame/intelligamelab.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Intelligame Lab"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  bio              : "University of Electronic Science and Technology of China"
+  location         : "Chengdu, China"
+  employer         : "UESTC"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en"  # 示例：张妍如老师的Google Scholar ID（请确认）
+  email            : "yanruzhang@uestc.edu.cn"  # 如无官方邮箱，可使用此占位
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
