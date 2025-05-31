@@ -38,9 +38,14 @@ redirect_from:
   <p>Our members have published in top international AI and energy systems conferences and journals. We strive to bridge theory and real-world applications, contributing to the national goals of carbon neutrality and intelligent urban infrastructure.</p>
 </div>
 
+<p>实验室长期招收<span style="color:red; font-weight:bold">人工智能、电气工程、计算机、智能电网</span>等相关专业背景的硕士和博士研究生，参与真实科研项目并发表高水平论文。</p>
+<p><strong>Master's/Ph.D. students:</strong> We are actively recruiting graduate students with backgrounds in <span style="color:red; font-weight:bold">AI, Electrical Engineering, Computer Science or Smart Grid</span>. Students will engage in real-world research projects and publish in top-tier venues.</p>
+
 
 <span class='anchor' id='-news'></span>
 <h2>🔥 News / 最新动态</h2>
+
+
 
 <ul>
   <li>
