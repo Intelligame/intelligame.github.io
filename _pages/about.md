@@ -325,8 +325,8 @@ redirect_from:
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
-         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <img src="../images/members/yixinliang.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
     <div style="margin-top: 10px;">
     <strong>梁艺馨<br>Yixing Liang</strong><br>
     </div>
@@ -391,7 +391,7 @@ redirect_from:
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+    <img src="../images/members/binli.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong>李斌<br>Bin Li</strong><br>
