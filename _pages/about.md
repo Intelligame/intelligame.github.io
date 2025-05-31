@@ -420,16 +420,6 @@ redirect_from:
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
   <div style="width: 250px; text-align: center;">
-    <img src="../images/alumni/chenghaohuang.jpg" alt="Chenghao Huang" 
-         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
-    <div style="margin-top: 10px;">
-    <strong><a href="https://scholar.google.com.au/citations?user=eQIg4c8AAAAJ&hl=en">黄承浩<br>Chenghao Huang</a></strong><br>
-      2022级硕士毕业生<br>Graduated Master Student<br>
-      莫纳什大学在读博士<br>Ph.D. student in Monash University
-    </div>
-  </div>
-
-  <div style="width: 250px; text-align: center;">
     <img src="../images/alumni/yanzhuang.png" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
@@ -438,6 +428,17 @@ redirect_from:
       电子科技大学在读博士<br>Ph.D. student in UESTC
     </div>
   </div>
+
+  <div style="width: 250px; text-align: center;">
+    <img src="../images/alumni/chenghaohuang.jpg" alt="Chenghao Huang" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong><a href="https://scholar.google.com.au/citations?user=eQIg4c8AAAAJ&hl=en">黄承浩<br>Chenghao Huang</a></strong><br>
+      2023级硕士毕业生<br>Graduated Master Student<br>
+      莫纳什大学在读博士<br>Ph.D. student in Monash University
+    </div>
+  </div>
+
 
   <div style="width: 250px; text-align: center;">
     <img src="../images/alumni/weihaohu.jpg" alt="Weihao Hu" 
