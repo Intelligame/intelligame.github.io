@@ -471,6 +471,9 @@ redirect_from:
     </div>
   </div>
 
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
   <div style="width: 250px; text-align: center;">
     <img src="../images/alumni/weiminyuan.jpg" alt="Weihao Hu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
