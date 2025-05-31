@@ -151,7 +151,7 @@ redirect_from:
 
 
 
-### 🧑‍🏫 Principal Investigator
+### 🧑‍🏫 Director / 负责人
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/members/Dr.zhang.jpg" alt="Dr. Yanru Zhang" style="width: 120px; height: 120px; object-fit: cover; object-position: top; border-radius: 50%; margin-right: 20px;">
@@ -164,7 +164,7 @@ redirect_from:
 
 ---
 
-### 🔬 Research Fellows / 研究员
+### 🔬 Head / 研究员
 
 <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
