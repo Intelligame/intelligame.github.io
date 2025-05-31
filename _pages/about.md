@@ -43,7 +43,8 @@ redirect_from:
 
 
 <span class='anchor' id='-news'></span>
-<h2>🔥 News / 最新动态</h2>
+
+## 🔥 News / 最新动态
 
 
 
@@ -73,7 +74,7 @@ redirect_from:
 
 
 <span class='anchor' id='-research'></span>
-<h2>🔍 Research / 研究方向</h2>
+## 🔍 Research / 研究方向
 
 <div style="margin-bottom: 1.5em;">
   <p><strong>我们当前的研究主要集中在以下几个方向：</strong></p>
@@ -228,10 +229,6 @@ redirect_from:
     </div>
   </div>
 
-</div>
-
-<div style="display: flex; gap: 40px; margin-bottom: 30px;">
-
   <div style="display: flex; align-items: center; width: 300px;">
     <img src="../images/members/zhulan.jpg" alt="zhuolan" 
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
@@ -240,6 +237,12 @@ redirect_from:
       博士生<br>Ph.D. Student<br>
     </div>
   </div>
+
+</div>
+
+<div style="display: flex; gap: 40px; margin-bottom: 30px;">
+
+  
 
   <!-- Placeholder for PhD Student 2 -->
   <div style="display: flex; align-items: center; width: 300px;">
@@ -251,10 +254,15 @@ redirect_from:
     </div>
   </div>
 
-</div>
 
-
-<div style="display: flex; gap: 40px; margin-bottom: 30px;">
+<div style="display: flex; align-items: center; width: 300px;">
+    <img src="../images/members/kaixie.jpeg" alt="kaixie" 
+         style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
+    <div>
+      <strong>邱楚贤<br>Chuxian Qiu</a></strong><br>
+      博士生<br>Ph.D. Student<br>
+    </div>
+  </div>
 
   <div style="display: flex; align-items: center; width: 300px;">
     <img src="../images/members/zhulan.jpg" alt="bingchen" 
@@ -265,8 +273,8 @@ redirect_from:
     </div>
   </div>
 
-
 </div>
+
 
 
 ---
@@ -303,10 +311,30 @@ redirect_from:
     </div>
   </div>
 
+  <div style="width: 80px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>Xinru Liu</strong><br>
+      Master Student
+    </div>
+  </div>
+
 </div>
 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+
+  
+
+  <div style="width: 80px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>Xinru Liu</strong><br>
+      Master Student
+    </div>
+  </div>
 
   <div style="width: 80px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
