@@ -17,40 +17,95 @@ redirect_from:
 
 <span class='anchor' id='about-us'></span>
 
-  The <strong>Intelligame Lab</strong> at the University of Electronic Science and Technology of China (UESTC) is dedicated to advancing research at the intersection of <strong>Artificial Intelligence</strong> and <strong>Smart Grids</strong>. Under the leadership of <strong>[Dr. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)</strong>, our lab explores data-driven methodologies for improving the efficiency, resilience, and intelligence of future energy systems.
+<!-- 实验室简介 -->
+<div style="margin-bottom: 2em;">
+  <p><strong>智能博弈实验室（Intelligame Lab）</strong> 隶属于电子科技大学，专注于 <strong>人工智能</strong> 与 <strong>智能电网</strong> 的交叉研究。在 <strong><a href="https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en">张彦如教授</a></strong> 的带领下，实验室致力于通过数据驱动的方法提升未来能源系统的效率、韧性与智能化水平。</p>
+
+  <p>The <strong>Intelligame Lab</strong> at the University of Electronic Science and Technology of China (UESTC) is dedicated to advancing research at the intersection of <strong>Artificial Intelligence</strong> and <strong>Smart Grids</strong>. Under the leadership of <strong><a href="https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en">Dr. Yanru Zhang</a></strong>, our lab explores data-driven methodologies for improving the efficiency, resilience, and intelligence of future energy systems.</p>
+</div>
+
+<!-- 研究方向 -->
+<div style="margin-bottom: 2em;">
+  <p>实验室的主要研究方向包括：面向电力系统的机器学习、建筑能源管理、智能电网预测分析以及多模态人工智能应用。我们拥有多样化的研究团队，现有 2 名研究员（<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">杨涵博士</a></strong> 和 <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">刘明昊博士</a></strong>）、6 名博士研究生以及 20 多名硕士研究生，广泛开展跨学科的学术与产业合作。</p>
+
+  <p>Our core research areas include machine learning for power systems, intelligent energy management, predictive analytics for smart grids, and multi-modal AI applications. With a diverse team of 2 research fellows (<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">Dr. Han Yang</a></strong> and <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">Dr. Minghao Liu</a></strong>), 6 Ph.D. students, and over 20 master’s students, we actively engage in interdisciplinary collaborations across academia and industry.</p>
+</div>
+
+<!-- 成果贡献 -->
+<div>
+  <p>实验室成员在人工智能与能源系统领域的国际顶级会议和期刊上发表了多篇论文。我们注重将理论研究应用于现实问题，积极助力国家“双碳”战略与智能城市基础设施建设。</p>
+
+  <p>Our members have published in top international AI and energy systems conferences and journals. We strive to bridge theory and real-world applications, contributing to the national goals of carbon neutrality and intelligent urban infrastructure.</p>
+</div>
 
 
 
-  Our core research areas include machine learning for power systems, intelligent energy management, predictive analytics for smart grids, and multi-modal AI applications. With a diverse team of 2 research fellows (<strong>[Dr. Han Yang](https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN)</strong> and <strong>[Dr. Minghao Liu](https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ)</strong>), 6 Ph.D. students, and over 20 master’s students, we actively engage in interdisciplinary collaborations across academia and industry.
+
+<h2>🔍 Research / 研究方向</h2>
+
+<div style="margin-bottom: 1.5em;">
+  <p><strong>我们当前的研究主要集中在以下几个方向：</strong></p>
+  <p><strong>Our research interest currently focuses on:</strong></p>
+</div>
+
+<ul>
+  <li>
+    <p><strong>智能电网中的人工智能（Artificial Intelligence for Smart Grids）</strong>：运用机器学习、深度学习与大语言模型提升现代电力系统中的负荷预测、需求响应与能源效率。</p>
+    <p><strong>Artificial Intelligence for Smart Grids</strong>: Leveraging machine learning, deep learning, and large language models to improve load forecasting, demand response, and energy efficiency in modern power systems.</p>
+  </li>
+
+  <li>
+    <p><strong>数据驱动的能源分析（Data-Driven Energy Analytics）</strong>：开发算法以分析大规模的住宅、工业和城市能源消费数据。</p>
+    <p><strong>Data-Driven Energy Analytics</strong>: Developing algorithms to analyze large-scale energy consumption data for residential, industrial, and urban-scale applications.</p>
+  </li>
+
+  <li>
+    <p><strong>智能优化与控制（Intelligent Optimization and Control）</strong>：探索强化学习和优化技术用于电网的实时调度、可再生能源集成与分布式能源管理。</p>
+    <p><strong>Intelligent Optimization and Control</strong>: Exploring reinforcement learning and optimization techniques for real-time grid control, renewable energy integration, and distributed energy management.</p>
+  </li>
+
+  <li>
+    <p><strong>跨学科融合应用（Cross-Disciplinary Applications）</strong>：将人工智能与社会、经济和环境数据相结合，推动公平的能源转型与智慧城市建设。</p>
+    <p><strong>Cross-Disciplinary Applications</strong>: Integrating AI with social, economic, and environmental data to support equitable energy transitions and smart city development.</p>
+  </li>
+</ul>
+
+<div style="margin-top: 1em;">
+  <p>我们积极开展跨人工智能、电力系统与政策等领域的合作，致力于构建可靠、高效、具备社会意识的能源解决方案。</p>
+  <p>We are actively exploring collaborations across AI, energy systems, and policy domains, aiming to build reliable, efficient, and socially aware energy solutions.</p>
+</div>
 
 
-  Our members have published in top international AI and energy systems conferences and journals. We strive to bridge theory and real-world applications, contributing to the national goals of carbon neutrality and intelligent urban infrastructure.
 
 
+<h2>🔥 News / 最新动态</h2>
 
-# 🔍 Research
-Our research interest currently focuses on:
+<ul>
+  <li>
+    <p>
+      <strong>2025.05</strong>: 🎉🎉 我们的论文 <strong>《SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation》</strong> 被 <em>IEEE Transactions on Smart Grid</em> 录用（🏆中科院一区期刊）！<br>
+      🎉🎉 Our paper <strong>"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (**🏆Top Journal, CAS Tier 1**)! 
+      👉 <a href="https://github.com/Intelligame/SocialDiff">[dataset and code]</a>
+    </p>
+  </li>
 
-- **Artificial Intelligence for Smart Grids**: Leveraging machine learning, deep learning, and large language models to improve load forecasting, demand response, and energy efficiency in modern power systems.
+  <li>
+    <p>
+      <strong>2025.05</strong>: 🎉🎉 我们的论文 <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>《Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity》</strong></a> 被 <em>IEEE Transactions on Instrumentation and Measurement</em> 接收（中科院二区）！<br>
+      🎉🎉 Our paper <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>"Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity"</strong></a> has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em> (**CAS Tier 2**)!
+    </p>
+  </li>
 
-- **Data-Driven Energy Analytics**: Developing algorithms to analyze large-scale energy consumption data for residential, industrial, and urban-scale applications.
+  <li>
+    <p>
+      <strong>2022.04</strong>: 我们发布了一个开源项目 <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>，致力于大语言模型在能源领域的应用。<br>
+      We have released an open-source repository named <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>, focusing on applications of LLMs in the energy domain.
+    </p>
+  </li>
+</ul>
 
-- **Intelligent Optimization and Control**: Exploring reinforcement learning and optimization techniques for real-time grid control, renewable energy integration, and distributed energy management.
 
-- **Cross-Disciplinary Applications**: Integrating AI with social, economic, and environmental data to support equitable energy transitions and smart city development.
-
-We are actively exploring collaborations across AI, energy systems, and policy domains, aiming to build reliable, efficient, and socially aware energy solutions.
-
-
-
-# 🔥 News
-* *2025.05*: &nbsp;🎉🎉 Our paper **"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"** has been accepted by *IEEE Transactions on Smart Grid* (**🏆Top Journal, CAS Tier 1**)! [[dataset and code]](https://github.com/Intelligame/SocialDiff)
-
-- *2025.05*: &nbsp;🎉🎉 Our paper **"[Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity](https://ieeexplore.ieee.org/abstract/document/11011525)"**, has been accepted by *IEEE Transactions on Instrumentation and Measurement* (**CAS Tier 2**)!
-
-- *2022.04*:  We have released a awesome repo named **[Awesome Energy LLM papers](https://github.com/chenweilong915/awesome_energy_LLM)**, focus on applications of LLMs in energy areas.
-
-# 📝 Publications 
+# 📝 Publications / 部分论文
 
 - *2025.05*: &nbsp;Weilong Chen, Xinru Liu, Xinran Zhang, Jian Shi, Han Yang, Zhu Han, and Yanru Zhang, **"[SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation](https://github.com/Intelligame/SocialDiff)"**, *in IEEE Transactions on Smart Grid*, May. 2025. (**🏆Top Journal, CAS Tier 1**)
 
@@ -110,7 +165,7 @@ We are actively exploring collaborations across AI, energy systems, and policy d
 
 ---
 
-### 🔬 Research Fellows
+### 🔬 Research Fellows / 研究员
 
 <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
@@ -140,7 +195,7 @@ We are actively exploring collaborations across AI, energy systems, and policy d
 
 ---
 
-### 🎓 Ph.D. Students
+### 🎓 Ph.D. Students / 博士生
 
 <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
@@ -156,7 +211,7 @@ We are actively exploring collaborations across AI, energy systems, and policy d
 
   <!-- Placeholder for PhD Student 2 -->
   <div style="display: flex; align-items: center; width: 300px;">
-    <img src="../images/members/phd2.jpg" alt="PhD Student 2" 
+    <img src="../images/members/phd2.jpg" alt="Peng wang" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
     <div>
       <strong>Peng Wang</strong><br>
@@ -169,7 +224,7 @@ We are actively exploring collaborations across AI, energy systems, and policy d
 <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
   <div style="display: flex; align-items: center; width: 300px;">
-    <img src="../images/members/cwl.jpg" alt="Weilong Chen" 
+    <img src="../images/members/zhulan.jpg" alt="zhuolan" 
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
       <strong><a href="https://scholar.google.com/citations?user=ukaTvisAAAAJ">Zhuo Lan</a></strong><br>
@@ -180,10 +235,10 @@ We are actively exploring collaborations across AI, energy systems, and policy d
 
   <!-- Placeholder for PhD Student 2 -->
   <div style="display: flex; align-items: center; width: 300px;">
-    <img src="../images/members/phd2.jpg" alt="PhD Student 2" 
+    <img src="../images/members/kaixie.jpeg" alt="kaixie" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong>Kai Xie</strong><br>
+      <strong><a href="https://scholar.google.com.hk/citations?user=BsUa_KsAAAAJ&hl=zh-CN">Kai Xie</a></strong><br>
       Ph.D. Student
     </div>
   </div>
@@ -193,7 +248,7 @@ We are actively exploring collaborations across AI, energy systems, and policy d
 
 ---
 
-### 🎓 Master's Students
+### 🎓 Master's Students / 硕士生
 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
@@ -261,5 +316,36 @@ We are actively exploring collaborations across AI, energy systems, and policy d
 
 
 
-# 💻 Alumni
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Alumni / 毕业生
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+
+  <div style="width: 250px; text-align: center;">
+    <img src="../images/alumni/chenghaohuang.jpg" alt="Chenghao Huang" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong><a href="https://scholar.google.com.au/citations?user=eQIg4c8AAAAJ&hl=en">Chenghao Huang</a></strong><br>
+      Graduated Master Student<br>
+      Ph.D. student in Monash University
+    </div>
+  </div>
+
+  <div style="width: 250px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>Yan Zhuang</strong><br>
+      Graduated Master Student<br>
+      Ph.D. student in UESTC
+    </div>
+  </div>
+
+  <div style="width: 80px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>Xinru Liu</strong><br>
+      Master Student
+    </div>
+  </div>
+
+</div>
