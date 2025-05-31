@@ -437,7 +437,7 @@ redirect_from:
 <span class='anchor' id='-alumni'></span>
 # 💻 Alumni / 毕业生
 
-### 🎓 Academic / 学术界
+## 🎓 Academic / 学术界
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
   <div style="width: 250px; text-align: center;">
@@ -479,7 +479,7 @@ redirect_from:
 - **[张瑞昌](https://scholar.google.com/citations?user=X3Pwc_sAAAAJ&hl=zh-CN)**  
   学校：曼彻斯特大学
 
-### 🏭 Industry / 工业界
+## 🏭 Industry / 工业界
 
 #### 🎓 2024级毕业生
 
