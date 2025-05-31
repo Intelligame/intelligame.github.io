@@ -440,7 +440,7 @@ redirect_from:
 ## 🎓 Academic / 学术界
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
-  <div style="width: 250px; text-align: center;">
+  <div style="width: 300px; text-align: center;">
     <img src="../images/alumni/yubai.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
@@ -451,7 +451,7 @@ redirect_from:
   </div>
 
 
-  <div style="width: 250px; text-align: center;">
+  <div style="width: 300px; text-align: center;">
     <img src="../images/alumni/yanzhuang.png" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
@@ -461,7 +461,7 @@ redirect_from:
     </div>
   </div>
 
-  <div style="width: 250px; text-align: center;">
+  <div style="width: 300px; text-align: center;">
     <img src="../images/alumni/chenghaohuang.jpg" alt="Chenghao Huang" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
@@ -474,7 +474,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
-  <div style="width: 250px; text-align: center;">
+  <div style="width: 300px; text-align: center;">
     <img src="../images/alumni/weiminyuan.jpg" alt="Weihao Hu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
@@ -483,7 +483,7 @@ redirect_from:
       休斯敦大学在读博士<br>Ph.D. student in University of Houston
     </div>
 
-  <div style="width: 250px; text-align: center;">
+  <div style="width: 300px; text-align: center;">
     <img src="../images/alumni/weihaohu.jpg" alt="Weihao Hu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
