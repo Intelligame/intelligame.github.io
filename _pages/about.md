@@ -21,21 +21,21 @@ redirect_from:
 <div style="margin-bottom: 2em;">
   <p><strong>智能博弈实验室（Intelligame Lab）</strong> 隶属于电子科技大学，专注于 <strong>人工智能</strong> 与 <strong>智能电网</strong> 的交叉研究。在 <strong><a href="https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en">张彦如教授</a></strong> 的带领下，实验室致力于通过数据驱动的方法提升未来能源系统的效率、韧性与智能化水平。</p>
 
-  <p><span style="color:gray;">The <strong>Intelligame Lab</strong> at the University of Electronic Science and Technology of China (UESTC) is dedicated to advancing research at the intersection of <strong>Artificial Intelligence</strong> and <strong>Smart Grids</strong>. Under the leadership of <strong><a href="https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en">Dr. Yanru Zhang</a></strong>, our lab explores data-driven methodologies for improving the efficiency, resilience, and intelligence of future energy systems.</p>
+  <p><span style="color:gray;">The <strong>Intelligame Lab</strong> at the University of Electronic Science and Technology of China (UESTC) is dedicated to advancing research at the intersection of <strong>Artificial Intelligence</strong> and <strong>Smart Grids</strong>. Under the leadership of <strong><a href="https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en">Dr. Yanru Zhang</a></strong>, our lab explores data-driven methodologies for improving the efficiency, resilience, and intelligence of future energy systems.</span></p>
 </div>
 
 <!-- 研究方向 -->
 <div style="margin-bottom: 2em;">
   <p>实验室的主要研究方向包括：面向电力系统的机器学习、建筑能源管理、智能电网预测分析以及多模态人工智能应用。我们拥有多样化的研究团队，现有 2 名研究员（<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">杨涵博士</a></strong> 和 <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">刘旻昊博士</a></strong>）、6 名博士研究生以及 20 多名硕士研究生，广泛开展跨学科的学术与产业合作。</p>
 
-  <p><span style="color:gray;">Our core research areas include machine learning for power systems, intelligent energy management, predictive analytics for smart grids, and multi-modal AI applications. With a diverse team of 2 research fellows (<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">Dr. Han Yang</a></strong> and <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">Dr. Minghao Liu</a></strong>), 6 Ph.D. students, and over 20 master’s students, we actively engage in interdisciplinary collaborations across academia and industry.</p>
+  <p><span style="color:gray;">Our core research areas include machine learning for power systems, intelligent energy management, predictive analytics for smart grids, and multi-modal AI applications. With a diverse team of 2 research fellows (<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">Dr. Han Yang</a></strong> and <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">Dr. Minghao Liu</a></strong>), 6 Ph.D. students, and over 20 master’s students, we actively engage in interdisciplinary collaborations across academia and industry.</span></p>
 </div>
 
 <!-- 成果贡献 -->
 <div>
   <p>实验室成员在人工智能与能源系统领域的国际顶级会议和期刊上发表了多篇论文。我们注重将理论研究应用于现实问题，积极助力国家“双碳”战略与智能城市基础设施建设。</p>
 
-  <p><span style="color:gray;">Our members have published in top international AI and energy systems conferences and journals. We strive to bridge theory and real-world applications, contributing to the national goals of carbon neutrality and intelligent urban infrastructure.</p>
+  <p><span style="color:gray;">Our members have published in top international AI and energy systems conferences and journals. We strive to bridge theory and real-world applications, contributing to the national goals of carbon neutrality and intelligent urban infrastructure.</span></p>
 </div>
 
 <h2>⭐️⭐️⭐️实验室长期招收<span style="color:red; font-weight:bold">人工智能、电气工程、计算机、智能电网</span>等相关专业背景的硕士和博士研究生，参与真实科研项目并发表高水平论文。</h2>
@@ -52,21 +52,21 @@ redirect_from:
   <li>
     <p>
       <strong>2025.05</strong>: 🎉🎉 我们的论文 <strong>《SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation》</strong> 被 <em>IEEE Transactions on Smart Grid</em> 录用（🏆中科院一区期刊）！👉 <a href="https://github.com/Intelligame/SocialDiff">[dataset and code]</a><br>
-      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (**🏆Top Journal, CAS Tier 1**)! 
+      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (**🏆Top Journal, CAS Tier 1**)! </span>
     </p>
   </li>
 
   <li>
     <p>
       <strong>2025.05</strong>: 🎉🎉 我们的论文 <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>《Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity》</strong></a> 被 <em>IEEE Transactions on Instrumentation and Measurement</em> 接收（中科院二区）！<br>
-      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>"Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity"</strong></a> has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em> (**CAS Tier 2**)!
+      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>"Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity"</strong></a> has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em> (**CAS Tier 2**)!</span>
     </p>
   </li>
 
   <li>
     <p>
       <strong>2022.04</strong>: 我们发布了一个开源项目 <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>，致力于大语言模型在能源领域的应用。<br>
-      <span style="color:gray;">We have released an open-source repository named <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>, focusing on applications of LLMs in the energy domain.
+      <span style="color:gray;">We have released an open-source repository named <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>, focusing on applications of LLMs in the energy domain.</span>
     </p>
   </li>
 </ul>
@@ -77,34 +77,34 @@ redirect_from:
 
 <div style="margin-bottom: 1.5em;">
   <p><strong>我们当前的研究主要集中在以下几个方向：</strong></p>
-  <p><strong><span style="color:gray;">Our research interest currently focuses on:</strong></p>
+  <p><strong><span style="color:gray;">Our research interest currently focuses on:</span></strong></p>
 </div>
 
 <ul>
   <li>
     <p><strong>智能电网中的人工智能（Artificial Intelligence for Smart Grids）</strong>：运用机器学习、深度学习与大语言模型提升现代电力系统中的负荷预测、需求响应与能源效率。</p>
-    <span style="color:gray;"><p><strong>Artificial Intelligence for Smart Grids</strong>: Leveraging machine learning, deep learning, and large language models to improve load forecasting, demand response, and energy efficiency in modern power systems.</p>
+    <span style="color:gray;"><p><strong>Artificial Intelligence for Smart Grids</strong>: Leveraging machine learning, deep learning, and large language models to improve load forecasting, demand response, and energy efficiency in modern power systems.</p></span>
   </li>
 
   <li>
     <p><strong>数据驱动的能源分析（Data-Driven Energy Analytics）</strong>：开发算法以分析大规模的住宅、工业和城市能源消费数据。</p>
-    <span style="color:gray;"><p><strong>Data-Driven Energy Analytics</strong>: Developing algorithms to analyze large-scale energy consumption data for residential, industrial, and urban-scale applications.</p>
+    <span style="color:gray;"><p><strong>Data-Driven Energy Analytics</strong>: Developing algorithms to analyze large-scale energy consumption data for residential, industrial, and urban-scale applications.</p></span>
   </li>
 
   <li>
     <p><strong>智能优化与控制（Intelligent Optimization and Control）</strong>：探索强化学习和优化技术用于电网的实时调度、可再生能源集成与分布式能源管理。</p>
-    <span style="color:gray;"><p><strong>Intelligent Optimization and Control</strong>: Exploring reinforcement learning and optimization techniques for real-time grid control, renewable energy integration, and distributed energy management.</p>
+    <span style="color:gray;"><p><strong>Intelligent Optimization and Control</strong>: Exploring reinforcement learning and optimization techniques for real-time grid control, renewable energy integration, and distributed energy management.</p></span>
   </li>
 
   <li>
     <p><strong>跨学科融合应用（Cross-Disciplinary Applications）</strong>：将人工智能与社会、经济和环境数据相结合，推动公平的能源转型与智慧城市建设。</p>
-    <span style="color:gray;"><p><strong>Cross-Disciplinary Applications</strong>: Integrating AI with social, economic, and environmental data to support equitable energy transitions and smart city development.</p>
+    <span style="color:gray;"><p><strong>Cross-Disciplinary Applications</strong>: Integrating AI with social, economic, and environmental data to support equitable energy transitions and smart city development.</p></span>
   </li>
 </ul>
 
 <div style="margin-top: 1em;">
   <p>我们积极开展跨人工智能、电力系统与政策等领域的合作，致力于构建可靠、高效、具备社会意识的能源解决方案。</p>
-  <span style="color:gray;"><p>We are actively exploring collaborations across AI, energy systems, and policy domains, aiming to build reliable, efficient, and socially aware energy solutions.</p>
+  <span style="color:gray;"><p>We are actively exploring collaborations across AI, energy systems, and policy domains, aiming to build reliable, efficient, and socially aware energy solutions.</p></span>
 </div>
 
 
