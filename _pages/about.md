@@ -511,10 +511,6 @@ redirect_from:
 
   学校：曼彻斯特大学在读博士
 
-- **[张瑞昌 Ruichang Zhang](https://scholar.google.com/citations?user=X3Pwc_sAAAAJ&hl=zh-CN)**  
-  2022级硕士毕业生
-
-  学校：曼彻斯特大学在读博士
 
 ## 🏭 Industry / 工业界
 
