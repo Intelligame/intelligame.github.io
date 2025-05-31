@@ -171,7 +171,7 @@ redirect_from:
   <img src="../images/members/Dr.zhang.jpg" alt="Dr. Yanru Zhang" style="width: 120px; height: 120px; object-fit: cover; object-position: top; border-radius: 50%; margin-right: 20px;">
   <div>
     <strong><a href="https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en">张彦如<br>Yanru Zhang</a></strong><br>
-    教授，博士生导师<br><em>Professor and Ph.D. Supervisor</em><br>
+    教授<br><em>Professor</em><br>
     国家级人才
   </div>
 </div>
