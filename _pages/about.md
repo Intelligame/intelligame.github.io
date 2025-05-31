@@ -435,14 +435,13 @@ redirect_from:
     </div>
   </div>
 
-  <div style="width: 80px; text-align: center;">
+  <div style="width: 250px; text-align: center;">
     <img src="../images/alumni/weihaohu.jpg" alt="Weihao Hu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong><a href="https://github.com/HWH-2000">胡文浩<br>Wenhao Hu</a></strong><br>
       硕士毕业生<br>Graduated Master Student<br>
       卓克索大学在读博士<br>Ph.D. student in Drexel University
-      
     </div>
   </div>
 
