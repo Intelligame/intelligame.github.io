@@ -441,6 +441,17 @@ redirect_from:
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
   <div style="width: 250px; text-align: center;">
+    <img src="../images/alumni/yubai.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong><a href="https://research.aalto.fi/en/persons/yu-bai">白玉<br>Yu Bai</a></strong><br>
+      2021级硕士毕业生<br>Graduated Master Student<br>
+      阿尔托大学在读博士<br>Ph.D. student in Aalto university
+    </div>
+  </div>
+
+
+  <div style="width: 250px; text-align: center;">
     <img src="../images/alumni/yanzhuang.png" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
@@ -460,6 +471,14 @@ redirect_from:
     </div>
   </div>
 
+  <div style="width: 250px; text-align: center;">
+    <img src="../images/alumni/weiminyuan.jpg" alt="Weihao Hu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong><a href="https://scholar.google.com/citations?user=KAtP2HUAAAAJ&hl=zh-CN">袁伟民<br>Weimin Yuan</a></strong><br>
+      2024级硕士毕业生<br>Graduated Master Student<br>
+      休斯敦大学在读博士<br>Ph.D. student in University of Houston
+    </div>
 
   <div style="width: 250px; text-align: center;">
     <img src="../images/alumni/weihaohu.jpg" alt="Weihao Hu" 
@@ -477,7 +496,14 @@ redirect_from:
 
 
 - **[张瑞昌 Ruichang Zhang](https://scholar.google.com/citations?user=X3Pwc_sAAAAJ&hl=zh-CN)**  
-  学校：曼彻斯特大学
+  2022级硕士毕业生
+
+  学校：曼彻斯特大学在读博士
+
+- **[张瑞昌 Ruichang Zhang](https://scholar.google.com/citations?user=X3Pwc_sAAAAJ&hl=zh-CN)**  
+  2022级硕士毕业生
+
+  学校：曼彻斯特大学在读博士
 
 ## 🏭 Industry / 工业界
 
