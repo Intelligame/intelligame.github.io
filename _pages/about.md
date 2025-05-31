@@ -202,6 +202,15 @@ redirect_from:
     </div>
   </div>
 
+  <div style="display: flex; align-items: center; width: 300px;">
+    <img src="../images/members/yanwang.jpg" alt="Minhao Liu" 
+         style="width: 100px; height: 100px; object-fit: contain;object-position: top; border-radius: 50%; margin-right: 15px;">
+    <div>
+      <strong><a href="https://scholar.google.co.uk/citations?user=HwoVhV0AAAAJ&hl=zh-CN">王岩<br>Yan Wang</a></strong><br>
+      副研究员<br><em>Associate Research Fellow</em><br>
+    </div>
+  </div>
+
 </div>
 
 
