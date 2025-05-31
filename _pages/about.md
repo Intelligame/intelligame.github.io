@@ -440,7 +440,7 @@ redirect_from:
     <strong><a href="https://scholar.google.com/citations?user=B1O7Ih4AAAAJ&hl=en">Daniel Mawunyo Doe</a></strong><br>
       2021级硕士毕业生<br>Graduated Master Student<br>
       休斯敦大学博士毕业<br>Ph.D. in University of Houston<br>
-      Assistant Professor in Prairie View A&M University<br>
+      助理教授<br>Assistant Professor in Prairie View A&M University<br>
     </div>
   </div>
 
