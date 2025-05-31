@@ -489,6 +489,7 @@ redirect_from:
       2024级硕士毕业生<br>Graduated Master Student<br>
       休斯敦大学在读博士<br>Ph.D. student in University of Houston
     </div>
+  </div>
 
   <div style="width: 300px; text-align: center;">
     <img src="../images/alumni/weihaohu.jpg" alt="Weihao Hu" 
