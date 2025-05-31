@@ -278,27 +278,27 @@ redirect_from:
 
   <div style="width: 80px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
-         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+         style="width: 100px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong>Xinru Liu</strong><br>
       Master Student
     </div>
   </div>
 
-  <div style="width: 80px; text-align: center;">
+  <div style="width: 100px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Xinru Liu</strong><br>
+      <strong>Ling Zhu</strong><br>
       Master Student
     </div>
   </div>
 
-  <div style="width: 80px; text-align: center;">
+  <div style="width: 100px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Xinru Liu</strong><br>
+      <strong>Wenxuan Xu</strong><br>
       Master Student
     </div>
   </div>
