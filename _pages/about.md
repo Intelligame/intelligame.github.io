@@ -346,7 +346,7 @@ redirect_from:
   
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+    <img src="../images/members/chunwangli.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong>李春旺<br>Chunwang Li</strong><br>
@@ -362,7 +362,7 @@ redirect_from:
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+    <img src="../images/members/yuqiliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong>刘羽旗<br>Yuqi Liu</strong><br>
