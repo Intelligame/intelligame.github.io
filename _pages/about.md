@@ -470,7 +470,17 @@ redirect_from:
       莫纳什大学在读博士<br>Ph.D. student in Monash University
     </div>
   </div>
-  
+
+  <div style="width: 300px; text-align: center;">
+    <img src="../images/alumni/jinhaoli.png" alt="Chenghao Huang" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong><a href="https://stephlee12.github.io/">李金豪<br>Jinhao Li</a></strong><br>
+      2023级本科毕业生<br>Undergraduate graduates<br>
+      莫纳什大学在读博士<br>Ph.D. student in Monash University
+    </div>
+  </div>
+
   <div style="width: 300px; text-align: center;">
     <img src="../images/alumni/weiminyuan.jpg" alt="Weihao Hu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
