@@ -302,8 +302,8 @@ redirect_from:
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
-         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <img src="../images/members/lingzhu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: bottom; border-radius: 50%;">
     <div style="margin-top: 10px;">
     <strong>朱玲<br>Ling Zhu</strong><br>
     </div>
@@ -360,7 +360,7 @@ redirect_from:
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+    <img src="../images/members/zhanxulin.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <strong>凌展旭<br>Zhanxu Ling</strong><br>
@@ -534,6 +534,12 @@ redirect_from:
 
 - **魏春晨**  
   就业单位：中国电子科技集团公司第十四研究所（中电14所）
+
+- **张明辉**  
+  就业单位：TP-LINK
+
+- **钟达庆**  
+  就业单位：电子科技大学算法工程师
 
 #### 🎓 2024级毕业生
 
