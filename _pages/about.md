@@ -282,12 +282,11 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
-  <div style="width: 80px; text-align: center;">
+  <div style="width: 100px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
-         style="width: 100px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Xinru Liu</strong><br>
-      Master Student
+      <strong>刘心如<br>Xinru Liu</strong><br>
     </div>
   </div>
 
@@ -295,8 +294,7 @@ redirect_from:
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Ling Zhu</strong><br>
-      Master Student
+    <strong>朱玲<br>Ling Zhu</strong><br>
     </div>
   </div>
 
@@ -304,17 +302,23 @@ redirect_from:
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Wenxuan Xu</strong><br>
-      Master Student
+      <strong>胥汶渲<br>Wenxuan Xu</strong><br>
     </div>
   </div>
 
-  <div style="width: 80px; text-align: center;">
+  <div style="width: 100px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Xinru Liu</strong><br>
-      Master Student
+      <strong>冯梦蝶<br>Mengdie Feng</strong><br>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>蔡元卿<br>Yuanqin Cai</strong><br>
     </div>
   </div>
 
@@ -323,43 +327,78 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
 
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>梁艺馨<br>Yixing Liang</strong><br>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>冯莉婷<br>Liting Feng</strong><br>
+    </div>
+  </div>
+
   
 
-  <div style="width: 80px; text-align: center;">
+  <div style="width: 100px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Xinru Liu</strong><br>
-      Master Student
+      <strong>李春旺<br>Chunwang Li</strong><br>
     </div>
   </div>
 
-  <div style="width: 80px; text-align: center;">
+  <div style="width: 100px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Xinru Liu</strong><br>
-      Master Student
+      <strong>凌展旭<br>Zhanxu Ling</strong><br>
     </div>
   </div>
 
-  <div style="width: 80px; text-align: center;">
+  <div style="width: 100px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Xinru Liu</strong><br>
-      Master Student
+      <strong>刘羽旗<br>Yuqi Liu</strong><br>
     </div>
   </div>
 
-  <div style="width: 80px; text-align: center;">
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+
+  <div style="width: 100px; text-align: center;">
     <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
-      <strong>Xinru Liu</strong><br>
-      Master Student
+    <strong>荣伟佳<br>Weijia Rong</strong><br>
     </div>
   </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>王志远<br>Zhiyuan Wang</strong><br>
+    </div>
+  </div>
+
+  
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/xinruliu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong>周钱<br>Qian Zhou</strong><br>
+    </div>
+  </div>
+
 
 </div>
 
