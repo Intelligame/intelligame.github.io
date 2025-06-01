@@ -443,6 +443,14 @@ redirect_from:
     </div>
   </div>
 
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/yueyangwu.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>吴悦炀<br>Yueyang Wu</strong><br>
+    </div>
+  </div>
+
 
 </div>
 
