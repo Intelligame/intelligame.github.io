@@ -90,7 +90,7 @@ redirect_from:
 
   <li>
     <p><strong>智能优化与控制（Intelligent Optimization and Control）</strong>：探索强化学习和优化技术用于电网的实时调度、可再生能源集成与建筑能源管理。</p>
-    <span style="color:gray;"><p><strong>Intelligent Optimization and Control</strong>: Exploring reinforcement learning and optimization techniques for real-time grid control, renewable energy integration, and distributed energy management.</p></span>
+    <span style="color:gray;"><p><strong>Intelligent Optimization and Control</strong>: Exploring reinforcement learning and optimization techniques for real-time grid control, renewable energy integration, and building energy management.</p></span>
   </li>
 
   <li>
