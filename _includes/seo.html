@@ -8,7 +8,7 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }} - Homepage</title>
+<title>{{ page.title | default: site.title }} | Intelligame Lab | Yanru Zhang | UESTC</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -52,6 +52,8 @@
     <meta name="twitter:creator" content="@{{ seo_author_twitter }}">
   {% endif %}
 {% endif %}
+
+<meta name="keywords" content="Yanru Zhang, Intelligame Lab, UESTC, Smart Grid, Artificial Intelligence, AI Lab, 张彦如, 智能博弈实验室">
 
 {% if site.facebook %}
   {% if site.facebook.publisher %}
