@@ -26,9 +26,9 @@ redirect_from:
 
 <!-- 研究方向 -->
 <div style="margin-bottom: 2em;">
-  <p>实验室的主要研究方向包括：面向电力系统的机器学习、建筑能源管理、智能电网预测分析以及多模态人工智能应用。我们拥有多样化的研究团队，现有 3 名研究员（<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">杨涵博士</a></strong>, <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">刘旻昊博士</a></strong> 和 <strong><a href="https://scholar.google.co.uk/citations?user=HwoVhV0AAAAJ&hl=zh-CN">王岩博士</a></strong>）、6 名博士研究生以及 20 多名硕士研究生，广泛开展跨学科的学术与产业合作。</p>
+  <p>实验室的主要研究方向包括基于机器学习的电力系统预测分析、建筑能源管理、电力交易以及多模态人工智能应用。我们拥有多样化的研究团队，现有 3 名研究员（<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">杨涵博士</a></strong>, <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">刘旻昊博士</a></strong> 和 <strong><a href="https://scholar.google.co.uk/citations?user=HwoVhV0AAAAJ&hl=zh-CN">王岩博士</a></strong>）、6 名博士研究生以及 20 多名硕士研究生，广泛开展跨学科的学术与产业合作。</p>
 
-  <p><span style="color:gray;">Our core research areas include machine learning for power systems, intelligent energy management, predictive analytics for smart grids, and multi-modal AI applications. With a diverse team of 3 research fellows (<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">Dr. Han Yang</a></strong>, <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">Dr. Minhao Liu</a></strong> and <strong><a href="https://scholar.google.co.uk/citations?user=HwoVhV0AAAAJ&hl=zh-CN">Dr. Yan Wang</a></strong>), 6 Ph.D. students, and over 20 master’s students, we actively engage in interdisciplinary collaborations across academia and industry.</span></p>
+  <p><span style="color:gray;">Our core research areas include machine learning for power systems, intelligent energy management, power trading, and multi-modal AI applications. With a diverse team of 3 research fellows (<strong><a href="https://scholar.google.com/citations?user=EGqCbB4AAAAJ&hl=zh-CN">Dr. Han Yang</a></strong>, <strong><a href="https://scholar.google.com/citations?hl=zh-CN&user=TtAHFDEAAAAJ">Dr. Minhao Liu</a></strong> and <strong><a href="https://scholar.google.co.uk/citations?user=HwoVhV0AAAAJ&hl=zh-CN">Dr. Yan Wang</a></strong>), 6 Ph.D. students, and over 20 master’s students, we actively engage in interdisciplinary collaborations across academia and industry.</span></p>
 </div>
 
 <!-- 成果贡献 -->
@@ -82,24 +82,28 @@ redirect_from:
 
 <ul>
   <li>
-    <p><strong>智能电网中的人工智能（Artificial Intelligence for Smart Grids）</strong>：运用机器学习、深度学习与大语言模型提升现代电力系统中的负荷预测、需求响应与能源效率。</p>
-    <span style="color:gray;"><p><strong>Artificial Intelligence for Smart Grids</strong>: Leveraging machine learning, deep learning, and large language models to improve load forecasting, demand response, and energy efficiency in modern power systems.</p></span>
-  </li>
+  <p><strong>能源系统智能预测与分析（Intelligent Forecasting and Analytics for Energy Systems）</strong>：融合人工智能与大规模能耗数据，开展负荷预测、用户行为建模与需求响应优化等任务，提升电力系统的智能化水平与运行效率。</p>
+  <span style="color:gray;">
+    <p><strong>Intelligent Forecasting and Analytics for Energy Systems</strong>: Combining AI techniques with large-scale energy consumption data to support load forecasting, user behavior modeling, and demand response optimization, aiming to enhance the intelligence and efficiency of power systems.</p>
+  </span>
+</li>
 
   <li>
-    <p><strong>数据驱动的能源分析（Data-Driven Energy Analytics）</strong>：开发算法以分析大规模的住宅、工业和城市能源消费数据。</p>
-    <span style="color:gray;"><p><strong>Data-Driven Energy Analytics</strong>: Developing algorithms to analyze large-scale energy consumption data for residential, industrial, and urban-scale applications.</p></span>
-  </li>
-
-  <li>
-    <p><strong>智能优化与控制（Intelligent Optimization and Control）</strong>：探索强化学习和优化技术用于电网的实时调度、可再生能源集成与分布式能源管理。</p>
+    <p><strong>智能优化与控制（Intelligent Optimization and Control）</strong>：探索强化学习和优化技术用于电网的实时调度、可再生能源集成与建筑能源管理。</p>
     <span style="color:gray;"><p><strong>Intelligent Optimization and Control</strong>: Exploring reinforcement learning and optimization techniques for real-time grid control, renewable energy integration, and distributed energy management.</p></span>
   </li>
 
   <li>
-    <p><strong>跨学科融合应用（Cross-Disciplinary Applications）</strong>：将人工智能与社会、经济和环境数据相结合，推动公平的能源转型与智慧城市建设。</p>
-    <span style="color:gray;"><p><strong>Cross-Disciplinary Applications</strong>: Integrating AI with social, economic, and environmental data to support equitable energy transitions and smart city development.</p></span>
-  </li>
+  <p><strong>电力市场与交易机制（Electricity Market and Trading Mechanisms）</strong>：研究现货市场、辅助服务市场与碳交易机制中的定价模型与博弈策略，提升市场运行效率与公平性。</p>
+  <span style="color:gray;"><p><strong>Electricity Market and Trading Mechanisms</strong>: Studying pricing models and game-theoretic strategies in spot markets, ancillary service markets, and carbon trading systems to enhance market efficiency and fairness.</p></span>
+</li>
+
+  <li>
+  <p><strong>多模态融合应用（Multimodal Integrated Applications）</strong>：融合图像、文本、时序等多模态数据，推动人工智能在智慧城市与能源系统中的感知、预测与决策能力。</p>
+  <span style="color:gray;">
+    <p><strong>Multimodal Integrated Applications</strong>: Integrating image, text, and time-series data to enhance perception, forecasting, and decision-making capabilities of AI in smart city and energy system scenarios.</p>
+  </span>
+</li>
 </ul>
 
 <div style="margin-top: 1em;">
