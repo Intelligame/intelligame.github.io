@@ -538,6 +538,16 @@ redirect_from:
   </div>
 
   <div style="width: 300px; text-align: center;">
+    <img src="../images/alumni/yanqingtao.jpg" alt="Weihao Hu" 
+         style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+      <strong><a href="https://www.linkedin.com/in/yanqing-tao-985713347">陶砚青<br>Yanqing Tao</a></strong><br>
+      2024级本科毕业生<br>Graduated undergraduate student<br>
+      康奈尔大学在读博士<br>Ph.D. student in Cornell University
+    </div>
+  </div>
+
+  <div style="width: 300px; text-align: center;">
     <img src="../images/alumni/weihaohu.jpg" alt="Weihao Hu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
