@@ -346,6 +346,14 @@ redirect_from:
   </div>
 
   <div style="width: 100px; text-align: center;">
+    <img src="../images/members/dechaozhou.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>周锝超<br>Dechao Zhou</strong><br>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
     <img src="../images/members/litingfeng.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
@@ -424,6 +432,14 @@ redirect_from:
          style="width: 80px; height: 80px; object-fit: cover; object-position: top; border-radius: 50%;">
     <div style="margin-top: 10px;">
     <strong>赖霖喆<br>Linzhe Lai</strong><br>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/qisongwang.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>王麒松<br>Qisong Wang</strong><br>
     </div>
   </div>
 
@@ -537,7 +553,7 @@ redirect_from:
   就业单位：立晟智能科技有限公司
 
 - **魏春晨**  
-  就业单位：中国电子科技集团公司第十四研究所（中电14所）
+  就业单位：中国电子科技集团公司第二十八研究所（中电28所）
 
 - **张明辉**  
   就业单位：TP-LINK
