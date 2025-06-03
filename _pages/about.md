@@ -509,7 +509,7 @@ redirect_from:
     <div style="margin-top: 10px;">
     <strong><a href="https://stephlee12.github.io/">李金豪<br>Jinhao Li</a></strong><br>
       2022级本科毕业生<br>Undergraduate graduates<br>
-      莫纳什大学在读博士<br>Ph.D. student in University of Manchester
+      莫纳什大学在读博士<br>Ph.D. student in Monash University
     </div>
   </div>
 
