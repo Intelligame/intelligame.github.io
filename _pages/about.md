@@ -51,7 +51,7 @@ redirect_from:
 <ul>
   <li>
     <p>
-      <strong>2025.05</strong>: 🎉🎉 我们的论文 <strong>《SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation》</strong> 被 <em>IEEE Transactions on Smart Grid</em> 录用（🏆中科院一区期刊）！👉 <a href="https://github.com/Intelligame/SocialDiff">[dataset and code]</a><br>
+      <strong>2025.05</strong>: 🎉🎉 我们的论文 <strong><a herf="https://ieeexplore.ieee.org/document/11021430">《SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation》</a></strong> 被 <em>IEEE Transactions on Smart Grid</em> 录用（🏆中科院一区期刊）！👉 <a href="https://github.com/Intelligame/SocialDiff">[dataset and code]</a><br>
       <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (🏆Top Journal, CAS Tier 1)! </span>
     </p>
   </li>
@@ -119,7 +119,7 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # 📝 Publications / 部分论文
 
-- *2025.05*: &nbsp;Weilong Chen, Xinru Liu, Xinran Zhang, Jian Shi, Han Yang, Zhu Han, and Yanru Zhang, **"[SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation](https://github.com/Intelligame/SocialDiff)"**, *in IEEE Transactions on Smart Grid*, May. 2025. (**🏆Top Journal, CAS Tier 1**)
+- *2025.05*: &nbsp;Weilong Chen, Xinru Liu, Xinran Zhang, Jian Shi, Han Yang, Zhu Han, and Yanru Zhang, **"[SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation](https://ieeexplore.ieee.org/document/11021430)"**, *in IEEE Transactions on Smart Grid*, May. 2025. (**🏆Top Journal, CAS Tier 1**)
 
 - *2025.05*: &nbsp;Xiaolu Chen; Chenghao Huang; Yanru Zhang; Hao Wang, **"[Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity](https://ieeexplore.ieee.org/abstract/document/11011525)"**, *in IEEE Transactions on Instrumentation and Measurement*, vol. 74, pp. 1-11, 2025, Art no. 2529411. (**CAS Tier 2**)
 
