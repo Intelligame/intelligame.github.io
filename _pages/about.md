@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-us'></span>
 
 <!-- 实验室简介 -->
@@ -33,9 +34,9 @@ redirect_from:
 
 <!-- 成果贡献 -->
 <div>
-  <p>实验室成员在人工智能与能源系统领域的国际顶级会议和期刊上发表了多篇论文。我们注重将理论研究应用于现实问题，积极助力国家“双碳”战略与智能城市基础设施建设。</p>
+  <p>实验室成员在人工智能与能源系统领域的国际顶级会议和期刊上发表了多篇论文。我们注重将理论研究应用于现实问题，积极助力国家"双碳"战略与智能城市基础设施建设。实验室总共发表论文 <span style="color:red;">100+</span> 篇，中科院JCR-1区或CCF-A类文章 <span style="color:red;">40+</span> 篇，电网领域中科院JCR-1区顶刊：IEEE Transactions on Smart Grid（影响因子IF 8.6）、IEEE Transactions on Sustainable Energy（IF 8.6）、Applied Energy（IF 10.1）、Smartgridcom。同时，我们的文章也发表在人工智能领域CCF-A类顶会，包括NIPS、ICLR、IJCAI等。实验室的人工智能与能源电力交叉领域已授权国家发明专利<span style="color:red;">10+</span> 项，张彦如教授个人近<span style="color:red;">5</span>年主持项目经费超过 <span style="color:red;">1500+</span> 万元，并与能源电力领域多个行业龙头单位建立了长期合作关系，具备扎实的产学研转化能力与示范基础。</p>
 
-  <p><span style="color:gray;">Our members have published in top international AI and energy systems conferences and journals. We strive to bridge theory and real-world applications, contributing to the national goals of carbon neutrality and intelligent urban infrastructure.</span></p>
+  <p><span style="color:gray;">Our members have published numerous papers in <strong>top international AI and energy systems conferences and journals</strong>. We strive to bridge theory and real-world applications, contributing to the national goals of <strong>carbon neutrality</strong> and <strong>intelligent urban infrastructure</strong>. The lab has published over <strong><span style="color:red;">100+</span> papers</strong> in total, with <strong><span style="color:red;">40+</span> papers</strong> in <strong>CAS JCR Q1 or CCF-A tier</strong> venues. Our work appears in top-tier journals in the power grid domain such as <strong>IEEE Transactions on Smart Grid</strong> (IF 8.6), <strong>IEEE Transactions on Sustainable Energy</strong> (IF 8.6), and <strong>Applied Energy</strong> (IF 10.1). Additionally, our research is published at premier AI conferences including <strong>NIPS, ICLR, and IJCAI</strong>. The lab has been granted <strong><span style="color:red;">10+</span> national invention patents</strong> in the intersection of AI and energy systems. Professor Yanru Zhang has led projects with funding exceeding <strong><span style="color:red;">15 million</span> RMB</strong> over the past <span style="color:red;">5</span> years, establishing long-term collaborations with <strong>industry leaders</strong> in the energy sector, demonstrating strong capabilities in <strong>industry-academia-research transformation</strong>.</span></p>
 </div>
 
 <h2>⭐️⭐️⭐️实验室长期招收<span style="color:red; font-weight:bold">人工智能、电气工程、计算机、智能电网、大模型</span>等相关专业背景的本科、硕士和博士研究生，参与真实科研项目并发表高水平论文。联系我们: 左下角点击Email.</h2>
@@ -559,69 +560,41 @@ redirect_from:
 
 </div>
 
+### 其他学术界毕业生 / Additional Academic Alumni
 
-
-
+| 年级 | 学生姓名 | 类别 | 毕业去向 | 备注 |
+|------|----------|------|----------|------|
+| 2025年 | 曹言博 | 本科 | 阿卜杜拉国王科技大学 博士生 | 全奖直博 |
+| 2025年 | 吴雨桐 | 本科 | 澳大利亚昆士兰大学 | 硕士 |
+| 2025年 | 陈晓璐 | 硕士 | 澳大利亚蒙纳士大学 博士生 | 国家奖学金 |
+| 2024年 | 林璨 | 本科 | 清华大学深圳国际研究生院 | 硕士 |
+| 2024年 | 胡瑞 | 本科 | 北京大学深圳研究生院 | 硕士 |
+| 2024年 | 毕然 | 本科 | 美国卡耐基梅隆大学 | 硕士，莱斯大学博士 |
+| 2024年 | 杨秋翌 | 本科 | 美国卡耐基梅隆大学 | 硕士 |
+| 2024年 | 黄俊博 | 本科 | 美国加州大学圣地亚哥分校 | 硕士 |
+| 2023年 | 白薇 | 硕士 | 清华大学 博士生 | 一等奖学金 |
+| 2022年 | 赵泽源 | 本科 | 上海交通大学 博士生 | 直博 |
+| 2021年 | 郑元帅 | 本科 | 香港中文大学（深圳） 博士生 | 一等奖学金 |
+| 2021年 | 李冀鹏 | 本科 | 美国加州大学戴维斯分校 博士生 | 成电杰出学子 |
 
 ## 🏭 Industry / 工业界
 
-#### 🎓 2025级毕业生
-
-- **张谢云**  
-  就业单位：立晟智能科技有限公司
-
-- **魏春晨**  
-  就业单位：中国电子科技集团公司第二十八研究所（中电28所）
-
-- **张明辉**  
-  就业单位：TP-LINK
-
-- **钟达庆**  
-  就业单位：电子科技大学算法工程师
-
-- **陈晓璐**  
-  就业单位：[信息已经被隐藏]
-
-#### 🎓 2024级毕业生
-
-- **郭康帅**  
-  就业单位：美团（Meituan）
-
-- **陈昱汐**  
-  就业单位：腾讯（Tencent）
-
-- **张重坚**  
-  就业单位：中兴（ZTE）
-
-- **常钰**  
-  就业单位：百度（Baidu）
-
-- **杨顺吉**  
-  就业单位：[信息已经被隐藏]
-
-
-#### 🎓 2023级毕业生
-
-- **何攀**  
-  就业单位：上海魔珐科技公司
-- **陈典**  
-  就业单位：TP-LINK
-- **王虓一**  
-  就业单位：[信息已经被隐藏]地区公务员
-- **黄和金**  
-  就业单位：中国建设银行 （四川）
-
-#### 🎓 2022级毕业生
-
-- **洪峰**  
-  就业单位：华为（Huawei）
-
-  
-
-#### 🎓 2021级毕业生
-
-- **袁鑫**  
-  就业单位：成都飞机工业（集团）有限责任公司 （成飞）
-
-- **张赛**  
-  就业单位：西南电子电信技术研究所 （成都）
+| 年级 | 学生姓名 | 类别 | 毕业去向 | 备注 |
+|------|----------|------|----------|------|
+| 2025年 | 张谢云 | 硕士 | 立晟智能科技有限公司 | - |
+| 2025年 | 魏春晨 | 硕士 | 中国电子科技集团公司第二十八研究所（中电28所） | - |
+| 2025年 | 张明辉 | 硕士 | TP-LINK | - |
+| 2025年 | 钟达庆 | 硕士 | 电子科技大学算法工程师 | - |
+| 2024年 | 郭康帅 | 硕士 | 美团（Meituan） | 国家奖学金 |
+| 2024年 | 陈昱汐 | 硕士 | 腾讯（Tencent） | IEEE HPCC最佳论文奖 |
+| 2024年 | 张重坚 | 硕士 | 中兴（ZTE） | - |
+| 2024年 | 常钰 | 硕士 | 百度（Baidu） | 国家奖学金 |
+| 2024年 | 杨顺吉 | 硕士 | 中金 | - |
+| 2023年 | 何攀 | 硕士 | 上海魔珐科技公司 | 一等奖学金 |
+| 2023年 | 陈典 | 硕士 | TP-LINK | - |
+| 2023年 | 王虓一 | 硕士 | 宜宾市公务员 | 选调生 |
+| 2023年 | 黄和金 | 硕士 | 中国建设银行（四川） | 二等奖学金 |
+| 2022年 | 洪峰 | 硕士 | 华为（Huawei） | 国家奖学金 |
+| 2021年 | 袁鑫 | 硕士 | 成都飞机工业（集团）有限责任公司（成飞） | 智能空战 |
+| 2021年 | 张赛 | 硕士 | 西南电子电信技术研究所（成都）/解放军第38研究所 | 强军计划 |
+| 2021年 | 吴洁慧 | 硕士 | 成都市公务员 | 选调生 |
