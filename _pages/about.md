@@ -483,6 +483,14 @@ redirect_from:
     </div>
   </div>
 
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/chenweiren.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>任晨玮<br>Chenwei Ren</strong><br>
+    </div>
+  </div>
+
 
 </div>
 
