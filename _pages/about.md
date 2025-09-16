@@ -135,6 +135,14 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # 📝 Publications / 部分论文
 
+- *2025.09*: &nbsp;Weilong Chen, Wenxuan Xu, Haoran Chen, Xinran Zhang, Zhijin Qin, Yanru Zhang, Zhu Han, **"Semantic Communication based on Large Language Model for Underwater Image Transmission"**, *in IEEE Transactions on Mobile Computing*, 2025. (**🏆Top Journal, CAS Tier 1, IF 9.2**)
+
+- *2025.09*: &nbsp;Chenghao Huang, Xiaolu Chen, Yanru Zhang, Hao Wang, **"FedCoSR: Personalized Federated Learning With Contrastive Shareable Representations for Label Heterogeneity in Non-IID Data"**, *in IEEE Transactions on Cybernetics*, 2025. (**🏆Top Journal, CAS Tier 1, IF 10.5**)
+
+- *2025.07*: &nbsp;Minghui Zhang, Minhao Liu, Hao Wang, Yang Wen, A-Li Luo, Yanru Zhang, **"Leveraging Large Language Model for Generalization in Building Energy Management"**, *in IEEE Transactions on Smart Grid*, 2025. (**🏆Top Journal, CAS Tier 1, IF 9.8**)
+
+- *2025.09*: &nbsp;Chunchen Wei, Shimin Cai, Han Yang, Yanru Zhang, **"Advanced deep learning-based methodology for multi-class diagnosis of wind turbine blade faults at the wind farm level"**, *in Engineering Applications of Artificial Intelligence*, vol. 160, Art no. 111801, 2025. (**🏆Top Journal, CAS Tier 1, IF 8.0**)
+
 - *2025.05*: &nbsp;Weilong Chen, Xinru Liu, Xinran Zhang, Jian Shi, Han Yang, Zhu Han, and Yanru Zhang, **"[SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation](https://ieeexplore.ieee.org/document/11021430)"**, *in IEEE Transactions on Smart Grid*, May. 2025. (**🏆Top Journal, CAS Tier 1**)
 
 - *2025.05*: &nbsp;Xiaolu Chen; Chenghao Huang; Yanru Zhang; Hao Wang, **"[Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity](https://ieeexplore.ieee.org/abstract/document/11011525)"**, *in IEEE Transactions on Instrumentation and Measurement*, vol. 74, pp. 1-11, 2025, Art no. 2529411. (**CAS Tier 2**)
