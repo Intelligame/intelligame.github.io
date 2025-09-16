@@ -52,17 +52,32 @@ redirect_from:
 <ul>
  <li>
     <p>
-      <strong>2025.07</strong>: 🎉🎉 我们的论文 <strong>《Leveraging Large Language Model for Generalization in Building Energy Management》</strong> 被 <em>IEEE Transactions on Smart Grid</em> 录用（🏆中科院一区期刊）！<br>
-      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"Leveraging Large Language Model for Generalization in Building Energy Management"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (🏆Top Journal, CAS Tier 1)! </span>
+      <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《Advanced deep learning-based methodology for multi-class diagnosis of wind turbine blade faults at the wind farm level》</strong> 被 <em>Engineering Applications of Artificial Intelligence</em> 录用（🏆中科院一区期刊，IF 8.0）！<br>
+      <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"Advanced deep learning-based methodology for multi-class diagnosis of wind turbine blade faults at the wind farm level"</strong> has been accepted by <em>Engineering Applications of Artificial Intelligence</em> (🏆Top Journal, CAS Tier 1, IF 8.0)! </span>
     </p>
   </li>
 
   <li>
     <p>
-      <strong>2025.05</strong>: 🎉🎉 我们的论文 <a href="https://ieeexplore.ieee.org/abstract/document/11011525"><strong>《Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity》</strong></a> 被 <em>IEEE Transactions on Instrumentation and Measurement</em> 接收（中科院二区）！<br>
-      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation Under Statistical Heterogeneity"</strong> has been accepted by <em>IEEE Transactions on Instrumentation and Measurement</em> (CAS Tier 2)!</span>
+      <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《FedCoSR: Personalized Federated Learning With Contrastive Shareable Representations for Label Heterogeneity in Non-IID Data》</strong> 被 <em>IEEE Transactions on Cybernetics</em> 录用（🏆中科院一区期刊，IF 10.5）！<br>
+      <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"FedCoSR: Personalized Federated Learning With Contrastive Shareable Representations for Label Heterogeneity in Non-IID Data"</strong> has been accepted by <em>IEEE Transactions on Cybernetics</em> (🏆Top Journal, CAS Tier 1, IF 10.5)! </span>
     </p>
   </li>
+
+  <li>
+    <p>
+      <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《Semantic Communication based on Large Language Model for Underwater Image Transmission》</strong> 被 <em>IEEE Transactions on Mobile Computing</em> 录用（🏆中科院一区期刊，IF 9.2）！<br>
+      <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"Semantic Communication based on Large Language Model for Underwater Image Transmission"</strong> has been accepted by <em>IEEE Transactions on Mobile Computing</em> (🏆Top Journal, CAS Tier 1, IF 9.2)! </span>
+    </p>
+  </li>
+
+ <li>
+    <p>
+      <strong>2025.07</strong>: 🎉🎉 我们的论文 <strong>《Leveraging Large Language Model for Generalization in Building Energy Management》</strong> 被 <em>IEEE Transactions on Smart Grid</em> 录用（🏆中科院一区期刊）！<br>
+      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"Leveraging Large Language Model for Generalization in Building Energy Management"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (🏆Top Journal, CAS Tier 1)! </span>
+    </p>
+  </li>
+
 
   <li>
     <p>
