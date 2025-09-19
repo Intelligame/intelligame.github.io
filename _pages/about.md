@@ -314,7 +314,7 @@ redirect_from:
     <img src="../images/members/Akinwumi_Akinsola_Williams.jpg" alt="bingchen" 
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
-      <strong>Akinwumi Akinsola Williams </strong><br>
+      <strong><a href="https://eng.istu.edu/about/faculty-and-staff/williams_akinwumi/">Akinwumi Akinsola Williams </strong><br>
       博士生<br>Ph.D. Student<br>
     </div>
   </div>
