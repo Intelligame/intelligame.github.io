@@ -310,6 +310,15 @@ redirect_from:
     </div>
   </div>
 
+  <div style="display: flex; align-items: center; width: 300px;">
+    <img src="../images/members/Akinwumi_Akinsola_Williams.jpg" alt="bingchen" 
+         style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
+    <div>
+      <strong>Akinwumi Akinsola Williams </strong><br>
+      博士生<br>Ph.D. Student<br>
+    </div>
+  </div>
+
 </div>
 
 
