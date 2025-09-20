@@ -311,7 +311,7 @@ redirect_from:
   </div>
 
   <div style="display: flex; align-items: center; width: 300px;">
-    <img src="../images/members/Akinwumi_Akinsola_Williams.jpeg" alt="Akinwumi_Akinsola_Williams" 
+    <img src="../images/members/Akinwumi_Akinsola_Williams.jpg" alt="Akinwumi_Akinsola_Williams" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
     <div>
       <strong><a href="https://eng.istu.edu/about/faculty-and-staff/williams_akinwumi">Akinwumi Akinsola Williams</a></strong><br>
