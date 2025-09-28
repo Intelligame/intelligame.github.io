@@ -506,10 +506,59 @@ redirect_from:
     <img src="../images/members/mengyingzeng.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
     <div style="margin-top: 10px;">
-    <strong>曾梦颖<br>mengying Zeng</strong><br>
+    <strong>曾梦颖<br>Mengying Zeng</strong><br>
     </div>
   </div>
 
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/ruilinguan.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>官瑞翎<br>Ruiling Guan</strong><br>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/yuxinhuang.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>黄雨欣<br>Yuxin Huang</strong><br>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/zhenyuyang.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>杨镇宇<br>Zhenyu Yang</strong><br>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/zhenyuyang.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>杨镇宇<br>Zhenyu Yang</strong><br>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/jiashengli.jpg" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>李嘉胜<br>Jiasheng Li</strong><br>
+    </div>
+  </div>
+
+  <div style="width: 100px; text-align: center;">
+    <img src="../images/members/kaigezheng.png" alt="Xinru Liu" 
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
+    <div style="margin-top: 10px;">
+    <strong>郑凯戈<br>Kaige Zheng</strong><br>
+    </div>
+  </div>
+
+  
 
 </div>
 
