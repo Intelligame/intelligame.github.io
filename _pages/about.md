@@ -52,6 +52,12 @@ redirect_from:
 <ul>
  <li>
     <p>
+      <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《Socially Aware Load Forecasting Utilizing Large Language Models》</strong> 被 <em>IEEE Transactions on Industrial Informatics</em> 录用（🏆中科院一区期刊，工程技术1区，IF 9.9，EI 收录）！<br>
+      <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"Socially Aware Load Forecasting Utilizing Large Language Models"</strong> has been accepted by <em>IEEE Transactions on Industrial Informatics</em> (🏆Top Journal, CAS Tier 1 in Engineering, IF 9.9, indexed by EI)!</span>
+    </p>
+  </li>
+ <li>
+    <p>
       <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《Advanced deep learning-based methodology for multi-class diagnosis of wind turbine blade faults at the wind farm level》</strong> 被 <em>Engineering Applications of Artificial Intelligence</em> 录用（🏆中科院一区期刊，IF 8.0）！<br>
       <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"Advanced deep learning-based methodology for multi-class diagnosis of wind turbine blade faults at the wind farm level"</strong> has been accepted by <em>Engineering Applications of Artificial Intelligence</em> (🏆Top Journal, CAS Tier 1, IF 8.0)! </span>
     </p>
@@ -134,6 +140,8 @@ redirect_from:
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications / 部分论文
+
+- *2025.09*: &nbsp;Weilong Chen, Xinran Zhang, Ling Zhu, Jian Shi, Zheng Chang, Zhu Han, Yanru Zhang, **"Socially Aware Load Forecasting Utilizing Large Language Models"**, *in IEEE Transactions on Industrial Informatics*, 2025. (**🏆Top Journal, CAS Tier 1, Engineering & Computer Science SCI Q1, IF 9.9, EI Indexed**)
 
 - *2025.09*: &nbsp;Weilong Chen, Wenxuan Xu, Haoran Chen, Xinran Zhang, Zhijin Qin, Yanru Zhang, Zhu Han, **"Semantic Communication based on Large Language Model for Underwater Image Transmission"**, *in IEEE Transactions on Mobile Computing*, 2025. (**🏆Top Journal, CAS Tier 1, IF 9.2**)
 
