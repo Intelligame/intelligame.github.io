@@ -284,7 +284,7 @@ redirect_from:
   <!-- Placeholder for PhD Student 2 -->
   <div style="display: flex; align-items: center; width: 300px;">
     <img src="../images/members/kaixie.jpeg" alt="kaixie" 
-         style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
+         style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
       <strong><a href="https://scholar.google.com.hk/citations?user=BsUa_KsAAAAJ&hl=zh-CN">谢凯<br>Kai Xie</a></strong><br>
       博士生<br>Ph.D. Student<br>
@@ -294,7 +294,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; width: 300px;">
     <img src="../images/members/chuxianqiu.jpg" alt="kaixie" 
-         style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
+         style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
       <strong>丘楚贤<br>Chuxian Qiu</strong><br>
       博士生<br>Ph.D. Student<br>
@@ -316,7 +316,7 @@ redirect_from:
 
   <div style="display: flex; align-items: center; width: 300px;">
     <img src="../images/members/Akinwumi_Akinsola_Williams.jpg" alt="Akinwumi_Akinsola_Williams" 
-         style="width: 100px; height: 100px; object-fit: contain; border-radius: 50%; margin-right: 15px;">
+         style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
       <strong><a href="https://eng.istu.edu/about/faculty-and-staff/williams_akinwumi">Akinwumi Akinsola Williams</a></strong><br>
       博士生<br>Ph.D. Student<br>
