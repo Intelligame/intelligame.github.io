@@ -539,14 +539,6 @@ redirect_from:
   </div>
 
   <div style="width: 100px; text-align: center;">
-    <img src="../images/members/zhenyuyang.jpg" alt="Xinru Liu" 
-         style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
-    <div style="margin-top: 10px;">
-    <strong>杨镇宇<br>Zhenyu Yang</strong><br>
-    </div>
-  </div>
-
-  <div style="width: 100px; text-align: center;">
     <img src="../images/members/jiashengli.jpg" alt="Xinru Liu" 
          style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%;">
     <div style="margin-top: 10px;">
