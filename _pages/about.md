@@ -277,6 +277,10 @@ redirect_from:
     </div>
   </div>
 
+  </div>
+  
+  <div style="display: flex; gap: 40px; margin-bottom: 30px;">
+
   <!-- Placeholder for PhD Student 2 -->
   <div style="display: flex; align-items: center; width: 300px;">
     <img src="../images/members/kaixie.jpeg" alt="kaixie" 
@@ -305,6 +309,10 @@ redirect_from:
       博士生<br>Ph.D. Student<br>
     </div>
   </div>
+
+  </div>
+  
+  <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
   <div style="display: flex; align-items: center; width: 300px;">
     <img src="../images/members/Akinwumi_Akinsola_Williams.jpg" alt="Akinwumi_Akinsola_Williams" 
