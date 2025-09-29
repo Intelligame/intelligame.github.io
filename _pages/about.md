@@ -52,6 +52,12 @@ redirect_from:
 <ul>
  <li>
     <p>
+      <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《LLM-Enhanced Trading Decision Framework with Multi-Scale Memory for Electricity Markets》</strong> 在 <em>IEEE SmartGridComm'25</em> 荣获最佳论文奖！<br>
+      <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"LLM-Enhanced Trading Decision Framework with Multi-Scale Memory for Electricity Markets"</strong> has been selected for a Best Paper Award at <em>IEEE SmartGridComm'25</em>!</span>
+    </p>
+  </li>
+ <li>
+    <p>
       <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《Socially Aware Load Forecasting Utilizing Large Language Models》</strong> 被 <em>IEEE Transactions on Industrial Informatics</em> 录用（🏆中科院一区期刊，工程技术1区，IF 9.9，EI 收录）！<br>
       <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"Socially Aware Load Forecasting Utilizing Large Language Models"</strong> has been accepted by <em>IEEE Transactions on Industrial Informatics</em> (🏆Top Journal, CAS Tier 1 in Engineering, IF 9.9, indexed by EI)!</span>
     </p>
