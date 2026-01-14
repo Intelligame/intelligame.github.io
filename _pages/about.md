@@ -311,9 +311,9 @@ redirect_from:
     </div>
   </div>
 
-  </div>
-  
-  <div style="display: flex; gap: 40px; margin-bottom: 30px;">
+</div>
+
+<div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
 
 <div style="display: flex; align-items: center; width: 300px;">
@@ -334,8 +334,6 @@ redirect_from:
     </div>
   </div>
 
-  
-  <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
   <div style="display: flex; align-items: center; width: 300px;">
     <img src="../images/members/Akinwumi_Akinsola_Williams.jpg" alt="Akinwumi_Akinsola_Williams" 
