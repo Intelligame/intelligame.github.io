@@ -299,9 +299,7 @@ redirect_from:
     </div>
   </div>
 
-  </div>
   
-  <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
   <!-- Placeholder for PhD Student 2 -->
   <div style="display: flex; align-items: center; width: 300px;">
@@ -312,6 +310,10 @@ redirect_from:
       博士生<br>Ph.D. Student<br>
     </div>
   </div>
+
+  </div>
+  
+  <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
 
 <div style="display: flex; align-items: center; width: 300px;">
@@ -332,7 +334,6 @@ redirect_from:
     </div>
   </div>
 
-  </div>
   
   <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
