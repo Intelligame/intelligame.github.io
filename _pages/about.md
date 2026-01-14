@@ -259,7 +259,7 @@ redirect_from:
 
 ---
 
-### 🎓 Ph.D. Students / 博士生
+### 🧑‍🔬 Postdoctoral Researchers / 博士后
 
 <div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
@@ -268,9 +268,17 @@ redirect_from:
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
       <strong><a href="https://chenweilong915.github.io/">陈维龙<br>Weilong Chen</a></strong><br>
-      博士生<br>Ph.D. Student<br>
+      博士后<br>Postdoctoral Researcher<br>
     </div>
   </div>
+
+</div>
+
+---
+
+### 🎓 Ph.D. Students / 博士生
+
+<div style="display: flex; gap: 40px; margin-bottom: 30px;">
 
   <!-- Placeholder for PhD Student 2 -->
   <div style="display: flex; align-items: center; width: 300px;">
