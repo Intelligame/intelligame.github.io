@@ -266,7 +266,7 @@ redirect_from:
          style="width: 100px; height: 100px; object-fit: cover;object-position: top; border-radius: 50%; margin-right: 15px;">
     <div>
       <strong><a href="https://chenweilong915.github.io/">陈维龙<br>Weilong Chen</a></strong><br>
-      博士后<br>Postdoctoral Researcher<br>
+      特聘副研究员，博士后<br>Distinguished Associate Research Fellow,<br>Postdoctoral Researcher
     </div>
   </div>
 
