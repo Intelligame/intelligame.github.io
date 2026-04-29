@@ -52,48 +52,38 @@ redirect_from:
 <ul>
  <li>
     <p>
+      <strong>2026.03</strong>: 🎉🎉 我们的论文 <strong>《TMDC: A Two-Stage Modality Denoising and Complementation Framework for Multimodal Sentiment Analysis with Missing and Noisy Modalities》</strong> 被 <em>Proceedings of the AAAI Conference on Artificial Intelligence</em> 录用！<br>
+      <span style="color:gray;"><strong>2026.03</strong>: 🎉🎉 Our paper <strong>"TMDC: A Two-Stage Modality Denoising and Complementation Framework for Multimodal Sentiment Analysis with Missing and Noisy Modalities"</strong> has been accepted by <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>!</span>
+    </p>
+  </li>
+ <li>
+    <p>
+      <strong>2025.12</strong>: 🎉🎉 我们的论文 <strong>《Enhancing wind power forecasting accuracy under extreme weather: Leveraging a dual-model approach with condition-based classification》</strong> 被 <em>Engineering Applications of Artificial Intelligence</em> 录用！<br>
+      <span style="color:gray;"><strong>2025.12</strong>: 🎉🎉 Our paper <strong>"Enhancing wind power forecasting accuracy under extreme weather: Leveraging a dual-model approach with condition-based classification"</strong> has been accepted by <em>Engineering Applications of Artificial Intelligence</em>!</span>
+    </p>
+  </li>
+ <li>
+    <p>
+      <strong>2025.12</strong>: 🎉🎉 我们的论文 <strong>《Intra-sample and Intra-modal Enhancement for Multimodal Sentiment Analysis with Missing Modalities》</strong> 被 <em>IEEE Transactions on Multimedia</em> 录用！<br>
+      <span style="color:gray;"><strong>2025.12</strong>: 🎉🎉 Our paper <strong>"Intra-sample and Intra-modal Enhancement for Multimodal Sentiment Analysis with Missing Modalities"</strong> has been accepted by <em>IEEE Transactions on Multimedia</em>!</span>
+    </p>
+  </li>
+ <li>
+    <p>
+      <strong>2025.12</strong>: 🎉🎉 我们的论文 <strong>《CPLLM-WPF: A multi-scale prompting framework for generalizable wind power forecasting with LLMs》</strong> 被 <em>Applied Energy</em> 录用！<br>
+      <span style="color:gray;"><strong>2025.12</strong>: 🎉🎉 Our paper <strong>"CPLLM-WPF: A multi-scale prompting framework for generalizable wind power forecasting with LLMs"</strong> has been accepted by <em>Applied Energy</em>!</span>
+    </p>
+  </li>
+ <li>
+    <p>
       <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《LLM-Enhanced Trading Decision Framework with Multi-Scale Memory for Electricity Markets》</strong> 在 <em>IEEE SmartGridComm'25</em> 荣获最佳论文奖！<br>
       <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"LLM-Enhanced Trading Decision Framework with Multi-Scale Memory for Electricity Markets"</strong> has been selected for a Best Paper Award at <em>IEEE SmartGridComm'25</em>!</span>
     </p>
   </li>
- <li>
-    <p>
-      <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《Socially Aware Load Forecasting Utilizing Large Language Models》</strong> 被 <em>IEEE Transactions on Industrial Informatics</em> 录用（🏆中科院一区期刊，工程技术1区，IF 9.9，EI 收录）！<br>
-      <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"Socially Aware Load Forecasting Utilizing Large Language Models"</strong> has been accepted by <em>IEEE Transactions on Industrial Informatics</em> (🏆Top Journal, CAS Tier 1 in Engineering, IF 9.9, indexed by EI)!</span>
-    </p>
-  </li>
- <li>
-    <p>
-      <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《Advanced deep learning-based methodology for multi-class diagnosis of wind turbine blade faults at the wind farm level》</strong> 被 <em>Engineering Applications of Artificial Intelligence</em> 录用（🏆中科院一区期刊，IF 8.0）！<br>
-      <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"Advanced deep learning-based methodology for multi-class diagnosis of wind turbine blade faults at the wind farm level"</strong> has been accepted by <em>Engineering Applications of Artificial Intelligence</em> (🏆Top Journal, CAS Tier 1, IF 8.0)! </span>
-    </p>
-  </li>
 
   <li>
     <p>
-      <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《FedCoSR: Personalized Federated Learning With Contrastive Shareable Representations for Label Heterogeneity in Non-IID Data》</strong> 被 <em>IEEE Transactions on Cybernetics</em> 录用（🏆中科院一区期刊，IF 10.5）！<br>
-      <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"FedCoSR: Personalized Federated Learning With Contrastive Shareable Representations for Label Heterogeneity in Non-IID Data"</strong> has been accepted by <em>IEEE Transactions on Cybernetics</em> (🏆Top Journal, CAS Tier 1, IF 10.5)! </span>
-    </p>
-  </li>
-
-  <li>
-    <p>
-      <strong>2025.09</strong>: 🎉🎉 我们的论文 <strong>《Semantic Communication based on Large Language Model for Underwater Image Transmission》</strong> 被 <em>IEEE Transactions on Mobile Computing</em> 录用（🏆中科院一区期刊，IF 9.2）！<br>
-      <span style="color:gray;"><strong>2025.09</strong>: 🎉🎉 Our paper <strong>"Semantic Communication based on Large Language Model for Underwater Image Transmission"</strong> has been accepted by <em>IEEE Transactions on Mobile Computing</em> (🏆Top Journal, CAS Tier 1, IF 9.2)! </span>
-    </p>
-  </li>
-
- <li>
-    <p>
-      <strong>2025.07</strong>: 🎉🎉 我们的论文 <strong>《Leveraging Large Language Model for Generalization in Building Energy Management》</strong> 被 <em>IEEE Transactions on Smart Grid</em> 录用（🏆中科院一区期刊）！<br>
-      <span style="color:gray;"><strong>2025.05</strong>: 🎉🎉 Our paper <strong>"Leveraging Large Language Model for Generalization in Building Energy Management"</strong> has been accepted by <em>IEEE Transactions on Smart Grid</em> (🏆Top Journal, CAS Tier 1)! </span>
-    </p>
-  </li>
-
-
-  <li>
-    <p>
-      <strong>2022.04</strong>: 我们发布了一个开源项目 <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>，致力于大语言模型在能源领域的应用。<br>
+      <strong>2025.07</strong>: 我们发布了一个开源项目 <a href="https://github.com/chenweilong915/awesome_energy_LLM"><strong>Awesome Energy LLM papers</strong></a>，致力于大语言模型在能源领域的应用。<br>
       <span style="color:gray;">We have released an open-source repository named <strong>Awesome Energy LLM papers</strong>, focusing on applications of LLMs in the energy domain.</span>
     </p>
   </li>
@@ -147,6 +137,16 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # 📝 Publications / 部分论文
 
+- *2026.03*: &nbsp;Yan Zhuang, Minhao Liu, Yanru Zhang, Jiawen Deng, Fuji Ren, **"TMDC: A Two-Stage Modality Denoising and Complementation Framework for Multimodal Sentiment Analysis with Missing and Noisy Modalities"**, *in Proceedings of the AAAI Conference on Artificial Intelligence*, vol. 40, no. 3, pp. 2281-2289, 2026.
+
+- *2025.12*: &nbsp;Weimin Yuan, Han Yang, Zhu Han, Yanru Zhang, **"Enhancing wind power forecasting accuracy under extreme weather: Leveraging a dual-model approach with condition-based classification"**, *in Engineering Applications of Artificial Intelligence*, vol. 162, pp. 112656, 2025.
+
+- *2025.12*: &nbsp;Yan Zhuang, Yanru Zhang, Jiawen Deng, Fuji Ren, **"Intra-sample and Intra-modal Enhancement for Multimodal Sentiment Analysis with Missing Modalities"**, *in IEEE Transactions on Multimedia*, 2025.
+
+- *2025.12*: &nbsp;Yuqi Liu, Weimin Yuan, Weilong Chen, Wenming Li, Han Yang, Yanru Zhang, **"CPLLM-WPF: A multi-scale prompting framework for generalizable wind power forecasting with LLMs"**, *in Applied Energy*, vol. 402, pp. 126912, 2025.
+
+- *2025.11*: &nbsp;Chunchen Wei, Shimin Cai, Han Yang, Yanru Zhang, **"Advanced deep learning-based methodology for multi-class diagnosis of wind turbine blade faults at the wind farm level"**, *in Engineering Applications of Artificial Intelligence*, vol. 160, pp. 111801, 2025. (**🏆Top Journal, CAS Tier 1, IF 8.0**)
+
 - *2025.09*: &nbsp;Weilong Chen, Xinran Zhang, Ling Zhu, Jian Shi, Zheng Chang, Zhu Han, Yanru Zhang, **"Socially Aware Load Forecasting Utilizing Large Language Models"**, *in IEEE Transactions on Industrial Informatics*, 2025. (**🏆Top Journal, CAS Tier 1, Engineering & Computer Science SCI Q1, IF 9.9, EI Indexed**)
 
 - *2025.09*: &nbsp;Weilong Chen, Wenxuan Xu, Haoran Chen, Xinran Zhang, Zhijin Qin, Yanru Zhang, Zhu Han, **"Semantic Communication based on Large Language Model for Underwater Image Transmission"**, *in IEEE Transactions on Mobile Computing*, 2025. (**🏆Top Journal, CAS Tier 1, IF 9.2**)
@@ -154,8 +154,6 @@ redirect_from:
 - *2025.09*: &nbsp;Chenghao Huang, Xiaolu Chen, Yanru Zhang, Hao Wang, **"FedCoSR: Personalized Federated Learning With Contrastive Shareable Representations for Label Heterogeneity in Non-IID Data"**, *in IEEE Transactions on Cybernetics*, 2025. (**🏆Top Journal, CAS Tier 1, IF 10.5**)
 
 - *2025.07*: &nbsp;Minghui Zhang, Minhao Liu, Hao Wang, Yang Wen, A-Li Luo, Yanru Zhang, **"Leveraging Large Language Model for Generalization in Building Energy Management"**, *in IEEE Transactions on Smart Grid*, 2025. (**🏆Top Journal, CAS Tier 1, IF 9.8**)
-
-- *2025.09*: &nbsp;Chunchen Wei, Shimin Cai, Han Yang, Yanru Zhang, **"Advanced deep learning-based methodology for multi-class diagnosis of wind turbine blade faults at the wind farm level"**, *in Engineering Applications of Artificial Intelligence*, vol. 160, Art no. 111801, 2025. (**🏆Top Journal, CAS Tier 1, IF 8.0**)
 
 - *2025.05*: &nbsp;Weilong Chen, Xinru Liu, Xinran Zhang, Jian Shi, Han Yang, Zhu Han, and Yanru Zhang, **"[SocioDiff: A Socio-aware Diffusion Model for Residential Load Data Generation](https://ieeexplore.ieee.org/document/11021430)"**, *in IEEE Transactions on Smart Grid*, May. 2025. (**🏆Top Journal, CAS Tier 1**)
 
@@ -678,7 +676,7 @@ redirect_from:
     <div style="margin-top: 10px;">
       <strong><a href="https://github.com/HWH-2000">胡文浩<br>Wenhao Hu</a></strong><br>
       2025级硕士毕业生<br>Graduated Master Student<br>
-      卓克索大学在读博士<br>Ph.D. student in Drexel University
+      香港理工大学在读博士<br>Ph.D. student in Hong Kong Polytechnic University
     </div>
   </div>
 
