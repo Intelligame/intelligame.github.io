@@ -601,7 +601,8 @@ redirect_from:
     <div style="margin-top: 10px;">
     <strong><a href="https://research.aalto.fi/en/persons/yu-bai">白玉<br>Yu Bai</a></strong><br>
       2021级硕士毕业生<br>Graduated Master Student<br>
-      阿尔托大学在读博士<br>Ph.D. student in Aalto university
+      阿尔托大学博士毕业<br>Ph.D. in Aalto University<br>
+      太原理工大学讲师<br>Lecturer in Taiyuan University of Technology
     </div>
   </div>
 
